@@ -1,0 +1,57 @@
+---
+title: "<center><div class='mytitle'>Adopting FORRT</div></center>"
+subtitle: "<center><div class='mysubtitle'>_Implementing principled teaching and mentoring practices_</div></center>"
+output: 
+  html_document:
+    css: style.css
+    includes: 
+        before_body: header.html
+---
+
+
+<div class="mycontent">
+
+
+<br><br><br>
+
+
+There are several ways. **[INCLUDE INTRO TEXT]**
+
+
+
+## Existing educational materials
+***
+
+<br>
+
+<div class="column-left">
+![](assets/img/partner.png){width=120px} <br><br>
+</div>
+
+Make your existing teaching and mentoring materials open. These can in  about prototypical subject-matters like in areas within Psychology, Political Science, Statistics, Economics, Neuroscience, Philosophy, History, etc. These can be in any language. You can then iteratively improve you materials. Non-exhaustive examples are: enhacing its documentation, adding media (transcripts, voice, video), making it multilanguage, and accessible to people with disability. The goal is to make your materials as understandable as possible to others, so they can be useful for both learning and teaching purposes. Other educators can then reuse and/or adapt it to their own context and needs - reducing time encumberment for producing high-quality materials and its access. 
+
+
+## Past and current research materials
+***
+
+<br>
+
+<div class="column-left">
+![](assets/img/7steps.png){width=130px} <br><br>
+[_expand image_](https://how-to-open.science/change/educate/OSC_Flyer_15x15_Englisch.png){target="_blank"}
+
+</div>
+
+Make your research open. An often neglected aspect is that your research serves the community as an educational material. Increasingly, well documented research repositories are used in undergraduate and graduate education. Think of the Collaborative Replications and Education Project in Psychology ([CREP](https://osf.io/wfc6u/){target="_blank"}), the Political Science Replication Initiative ([PSRI](https://politicalsciencereplication.wordpress.com/){target="_blank"}), its Economics' [counterpart](http://replication.uni-goettingen.de/wiki/index.php/Portal:Replication_in_teaching){target="_blank"}. How to achieve this? Thankfully, it is very easy. Create an [OSF account](https://osf.io/), include your studies' materials (code, codebooks, data, etc) in a repository, and you are done! 
+
+If you want to learn more about "How to Open Science", visit [FORRT's Educational Nexus](https://forrtv2.netlify.com/as.resource.tool.html).
+
+
+
+
+
+
+</div>
+
+
+<br><br>
