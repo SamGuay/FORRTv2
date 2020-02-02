@@ -1,0 +1,63 @@
+name: "FORRT"
+
+navbar:
+  title: ""
+  type: inverse
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "FORRT"
+      #icon: fa-chart-bar
+      menu:
+        - text: "FORRT"
+        - text: "---------"
+        - text: "About"
+          href: about.html
+        - text: "Advocacy"
+          href: advocacy.html  
+        - text: "Adopting FORRT"
+          href: adopting.html  
+        - text: "Code of Conduct"
+          href: CoC.html
+#        - text: "Media"
+#          href: Media.html
+        - text: "Get Involved"
+          href: GetInvolved.html
+        - text: "Mission"
+          href: Mission.html          
+        - text: "Partnerships"
+          href: partnerships.html
+        - text: "People"
+          href: people.html
+        - text: "Policy-Making"
+          href: Policy-Making.html
+#        - text: "Where are we?"
+#          href: Map.html     
+#        - text: "Principles"
+#          href: principles.html
+    - text: "educational NEXUS"
+      menu:
+        - text: "educational NEXUS"
+        - text: "---------"
+        - text: "educational NEXUS"
+          href: as.resource.tool.html
+    - text: "Pedagogies"
+      menu:
+        - text: "Pedagogies"
+        - text: "---------"
+        - text: "What is it?"
+          href: pedagogies_main.html
+
+
+  right:
+    - text: ""
+      icon: fa-envelope
+      href: mailto:FORRTproject@gmail.com
+    - text: ""
+      icon: fa-twitter
+      href: https://twitter.com/FORRTproject
+#    - text: ""
+#      icon: fa-github
+#      href: https://github.com/flavioazevedo/FORRT
+      
+      

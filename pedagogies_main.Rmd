@@ -1,0 +1,36 @@
+---
+title: "<center><div class='mytitle'>Pedagogies</div></center>"
+subtitle: "<center><div class='mysubtitle'>_Examples of best educational practices in higher education_</div></center>"
+output: 
+  html_document:
+    css: style.css
+    includes: 
+        before_body: header.html
+---
+
+
+<div class="mycontent">
+
+<br>
+
+## FORRT's Pedagogies
+***
+
+FORRT collects and catalog exemplary instances of _Principled Education_, and provide a centralized platform for its dissemination, recognition and repurposefulness. 
+
+
+These are detailed examples of successful pedagogies across social sciences – in teaching and mentoring (openness & repurposefulness of materials included). Our hope is that interested parties – _i.e._, scholars, instructors, educational institutions aiming to develop or reform degree programs and courses – can use FORRT’s pedagogies as an initial template towards the creation of their personalized or context-specific pedagogies. FORRT's Pedagogies intend to facilitate the initial costs of integrating field-specific education with open and reproducible science tenets.
+
+> For example, it has been suggested that one potential solution to the replicability crisis is to make replication an explicit part of higher education pedagogy (Everett & Earp, 2015; Frank & Saxe, 2012; Grahe et al., 2012; Hawkins et al., 2018; King et al., 2016; LeBel, 2015; Standing, 2016).
+^[ _**Everett, J. A. C., & Earp, B. D. (2015).**_ A tragedy of the (academic) commons: interpreting the replication crisis in psychology as a social dilemma for early-career researchers. Frontiers in psychology, 6, 1152. <br> _**Freese, J., & Peterson, D. (2018).**_ The emergence of statistical objectivity: changing ideas of epistemic vice and virtue in science. Sociological theory, 36(3), 289-313. <br> _**Grahe, J. E., Reifman, A., Hermann, A. D., Walker, M., Oleson, K. C., Nario-Redmond, M., & Wiebe, R. P. (2012).**_ Harnessing the Undiscovered Resource of Student Research Projects. Perspectives on Psychological Science, 7(6), 605–607. https://doi.org/10.1177/1745691612459057  <br>  _**Hawkins, R. X., Smith, E. N., Au, C., Arias, J. M., Catapano, R., Hermann, E., ... & Salehi, S. (2018).**_ Improving the replicability of psychological science through pedagogy. Advances in Methods and Practices in Psychological Science, 1(1), 7-18.  <br>  ] 
+
+So, in addition to formal teaching of courses on replications (Janz, 2015), mentorship offers an important avenue into the dissemination of open and reproducible research principles. One strong example of principled mentoring is a consortia approach (Button et al., 2018) in which students collaborate on an overarching project (while still ensuring sufficient independence). Importantly, students are mentored through a research process that maps more effectively to best practices; studies are typically pre-registered, they are sufficiently statistically powered to address the core research questions, and open research practices are followed throughout. Similarly, individual courses can be leveraged to mentor students through open and reproducible practices. For instance, the Collaborative Replications and Education Project (CREP; Grahe et al. 2018) offers students with training opportunities to conduct large-scale collaborative replication research projects, and training and support for teachers wishing to guide their students through these projects. Thus, principled education can leverage the aforementioned ideals to teach and train students (open to all students, not only those pursuing a career in academia) the procedures of science and its intricacies along with hands-on-approach to relevant concepts (such as reproducibility, replication, pre-registration, analytical flexibility, etc.), involving tasks addressing the broad range of skills that they will need as professionals, such as understand and communicate data insights (collect it or perform experiments), precise and complete record keeping, accurate reporting of results, and a commitment to oral and written presentations and publication. 
+
+
+
+<br>
+
+</div>
+
+
+<br><br>

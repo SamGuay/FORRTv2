@@ -1,0 +1,563 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>FORRT</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    FORRT
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li class="dropdown-header">FORRT</li>
+    <li class="divider"></li>
+    <li>
+      <a href="about.html">About</a>
+    </li>
+    <li>
+      <a href="advocacy.html">Advocacy</a>
+    </li>
+    <li>
+      <a href="adopting.html">Adopting FORRT</a>
+    </li>
+    <li>
+      <a href="CoC.html">Code of Conduct</a>
+    </li>
+    <li>
+      <a href="GetInvolved.html">Get Involved</a>
+    </li>
+    <li>
+      <a href="Mission.html">Mission</a>
+    </li>
+    <li>
+      <a href="partnerships.html">Partnerships</a>
+    </li>
+    <li>
+      <a href="people.html">People</a>
+    </li>
+    <li>
+      <a href="Policy-Making.html">Policy-Making</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    educational NEXUS
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li class="dropdown-header">educational NEXUS</li>
+    <li class="divider"></li>
+    <li>
+      <a href="as.resource.tool.html">educational NEXUS</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Pedagogies
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li class="dropdown-header">Pedagogies</li>
+    <li class="divider"></li>
+    <li>
+      <a href="pedagogies_main.html">What is it?</a>
+    </li>
+  </ul>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="mailto:FORRTproject@gmail.com">
+    <span class="fa fa-envelope"></span>
+     
+    
+  </a>
+</li>
+<li>
+  <a href="https://twitter.com/FORRTproject">
+    <span class="fa fa-twitter"></span>
+     
+    
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">FORRT</h1>
+<h3 class="subtitle">Framework for Open and Reproducible Research Training</h3>
+
+</div>
+
+
+<hr />
+<center>
+<div id="a-framework-for-open-and-reproducible-research-training1" class="section level2">
+<h2><strong>A Framework for Open and Reproducible Research Training<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a></strong></h2>
+</center>
+<div id="section" class="section level2 tabset tabset-fade" style="padding:50px">
+
+<div id="introduction" class="section level3">
+<h3>Introduction</h3>
+<div class="b">
+<p><br></p>
+<h3 id="abstract">Abstract</h3>
+<p>Current norms for the teaching and mentoring of higher education are rooted in anachronistic practices of bygone eras. Improving the transparency and rigor of science is the responsibility of all who engage in it. Ongoing attempts to improve research credibility have, however, neglected an essential aspect of the academic cycle: the training of researchers and consumers of research. Principled teaching and mentoring involve imparting students with an understanding of research findings in light of probabilistic uncertainty, and moreover, an understanding of best practices in knowledge advancement. We introduce a Framework for Open and Reproducible Research Training (FORRT). Its main goal is to provide educators with a pathway towards the incremental adoption of principled teaching and mentoring practices, including open and reproducible research. FORRT will act as a resource to support instructors, collating existing teaching pedagogies and materials that may be reused and adapted for use within existing courses. Moreover, FORRT can be used as a tool to benchmark the current level of training students receive across six clusters of open and reproducible research practices: ‘reproducibility and replicability knowledge’, ‘conceptual and statistical knowledge’, ‘reproducible analyses’, ‘preregistration’, ‘open data and materials’, and ‘replication research’. FORRT will strive to be an advocate for the establishment of principled teaching and mentorship as a fourth pillar of a true scientific utopia.</p>
+<p>Above is the abstract for our manuscript introducing FORRT <a href="https://osf.io/bnh7p">https://osf.io/bnh7p</a>. We welcome input on FORRT itself, and on the manuscript; you can access the working document here (please select suggested changes): <a href="https://tinyURL.com/FORRTworkingDOC">tinyURL.com/FORRTworkingDOC</a>.</p>
+<p>We are actively seeking help to develop FORRT into the pedagogical resource we envisage. If you would like to help us support and advocate for teachers, please get in touch <a href="mailto:FORRTproject@gmail.com">here</a>. Please also see the ‘<em>implementation plan</em>’ tab for more information on our current plans.</p>
+<p><br><br></p>
+</div>
+</div>
+<div id="principles" class="section level3">
+<h3>Principles</h3>
+<p><br></p>
+<p>FORRT is centred around a framework comprising six clusters of open and reproducible research practices. Each cluster has six sub-clusters.</p>
+<p><br></p>
+<div id="cluster-1-reproducibility-crisis-and-credibility-revolution" class="section level4">
+<h4><strong>Cluster 1: Reproducibility crisis and Credibility Revolution</strong></h4>
+<p><strong>Summary</strong>: Attainment of a grounding in the motivations and theoretical underpinnings of reproducible and open research. Integration with field specific content (i.e., or grounded in the history of replicability);</p>
+<ul>
+<li>Replication crisis and credibility revolution</li>
+<li>Exploratory and confirmatory analyses</li>
+<li>Questionable research practices (their ‘theory’) and prevalence</li>
+<li>Proposed improvement science initiatives on statistics, measurement, teaching, data sharing, code sharing, pre-registration, replication.</li>
+<li>Ongoing debates, (e.g. incentives for and against open science).</li>
+<li>Ethical considerations for improved practices.</li>
+</ul>
+<center>
+</center>
+<p><br></p>
+</div>
+<div id="cluster-2-conceptual-and-statistical-knowledge" class="section level4">
+<h4><strong>Cluster 2: Conceptual and Statistical Knowledge</strong></h4>
+<p><strong>Summary</strong>: Enacting this principle indicates that students attain a grounding in fundamental statistics, measurement, and its implications.</p>
+<ul>
+<li>The logic of null hypothesis testing, p-values, Type I and II errors (and when and why they might happen).</li>
+<li>Limitations and benefits of NHST, Bayesian and Likelihood approaches.</li>
+<li>Effect sizes, Statistical power, Confidence Intervals.</li>
+<li>Research Design, Sample Methods, and its implications for inferences.</li>
+<li>Questionable research (QRPs) &amp; measurement practices (QMPs).</li>
+<li>Understand the relationship between all of the above.</li>
+</ul>
+<center>
+</center>
+<p><br></p>
+</div>
+<div id="cluster-3-reproducible-analyses" class="section level4">
+<h4><strong>Cluster 3: Reproducible analyses</strong></h4>
+<p><strong>Summary</strong>: Reproducible analyses allow the checking of analytic pipelines and facilitate error correction. Enacting this principle requires students to move towards transparent and scripted analysis practices.</p>
+<ul>
+<li>Strengths of reproducible pipelines</li>
+<li>Scripted analyses compared with GUI</li>
+<li>Data wrangling</li>
+<li>Programming reproducible data analyses</li>
+<li>Open source and free softwares</li>
+<li>Tools to check yourself and others; statcheck, GRIM, and SPRITE</li>
+</ul>
+<center>
+</center>
+<p><br></p>
+</div>
+<div id="cluster-4-open-data-and-materials" class="section level4">
+<h4><strong>Cluster 4: Open data and materials</strong></h4>
+<p><strong>Summary</strong>: Enacting this principle indicates that students have attained a grounding in open data and materials in both; using and sharing.</p>
+<ul>
+<li>Knowledge of traditional publication models. Open access publishing, preprints</li>
+<li>Reasons to share; for science, and for one’s own practices</li>
+<li>Repositories; e.g. OSF, FigShare, GitHub</li>
+<li>Accessing/sharing others data, code, and materials</li>
+<li>Ethical considerations</li>
+<li>Examples and consequences of accessing un/open data</li>
+</ul>
+<center>
+</center>
+<p><br></p>
+</div>
+<div id="cluster-5-preregistration" class="section level4">
+<h4><strong>Cluster 5: Preregistration</strong></h4>
+<p><strong>Summary</strong>: Preregistration entails laying out a complete methodology and analysis before a study has been undertaken. This facilitates transparency and removes several potential QRPs.</p>
+<ul>
+<li>Purpose of preregistration - distinguishing exploratory and confirmatory analyses, transparency measures</li>
+<li>Preregistration and registered reports - strengths and differences</li>
+<li>When can you preregister? Can you preregister secondary data?</li>
+<li>Writing a preregistration</li>
+<li>Comparing a preregistration to a final study manuscript</li>
+<li>Conducting a preregistered study</li>
+</ul>
+<center>
+</center>
+<p><br></p>
+</div>
+<div id="cluster-6-replication-research" class="section level4">
+<h4><strong>Cluster 6: Replication research</strong></h4>
+<p><strong>Summary</strong>: Replication research takes a variety of forms, each with a different purpose and contribution. Reproducible science requires replication research.</p>
+<ul>
+<li>Purposes of replication attempts - what is a ‘failed’ replication?</li>
+<li>Large scale replication attempts</li>
+<li>Distinguishing conceptual and direct replications</li>
+<li>Conducting replication studies; challenges, limitations, and comparisons with the original study</li>
+<li>Registered Replication Reports</li>
+<li>The politics of replicating famous studies</li>
+</ul>
+<p><br><br></p>
+<p>Although not exhaustive, these concepts provide a broad coverage of each FORRT cluster.</p>
+<center>
+</center>
+<div>
+
+
+</div>
+</div>
+<div id="implementation-plan" class="section level3">
+<h3>Implementation Plan</h3>
+<p><br></p>
+<p>Our developing implementation plan is as follows (we are also open to feedback and suggestions):</p>
+<ul>
+<li>Continue to develop FORRT. The <a href="https://doi.org/10.31219/osf.io/bnh7p">‘introduction to FORRT’ manuscript</a> is intended as a starting point to elicit widespread feedback about the framework and its implementation.</li>
+<li>Check with the community whether the pilot for the evaluation and its preliminary rankings can be improved upon.</li>
+<li>Invite course leaders to become the first adopters of FORRT; to submit their materials, to complete a pedagogical assessment of their courses, and to join us in FORRT</li>
+<li>To invite diverse feedback on the optimal implemention of the educational NEXUS. Including assistance with website development.</li>
+</ul>
+<p>We are actively seeking help to develop FORRT into the pedagogical resource we envisage. If you would like to help us support and advocate for teachers, please get in touch <a href="mailto:FORRTproject@gmail.com">here</a>.</p>
+<p><br></p>
+</div>
+</div>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p><strong>Authors note</strong>. <em>This project was initiated at the 2018 meeting of the Society for the Improvement of Psychological Science in the “Teaching replicable and reproducible science” hackathon led by Kristen Lane and Heather Urry. The initial framework was developed in a subsequent working group consisting of: Sam Parsons, Flavio Azevedo, Carl Michael Galang, Kristin Lane, Lisa DeBruine, Benjamin Le, Donald Tellinghuisen, and Madeline Harms (we apologise if we have missed anybody - please let us know). The <a href="https://docs.google.com/document/d/1DYAeQ2-veg4AQqLHMCdOyLoAU2WH2I_oaJIKc9StXXE/edit?ts=5b62ed12#">current version of the paper</a> introducing FORRT was drafted by Sam Parsons &amp; Flavio Azevedo, with integral feedback and support from Carl Michael Galang. The FORRT website has been designed - and is maintained - by Flavio Azevedo. To further develop FORRT we are seeking additional contributors and will endeavor to acknowledge all that provided feedback on this project.</em><a href="#fnref1" class="footnote-back">↩</a></p></li>
+</ol>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,57 @@
+---
+title: "FORRT"
+subtitle: "Framework for Open and Reproducible Research Training"
+output: 
+  html_document:
+    css: style.css
+---
+
+***
+
+<center>
+
+## FORRT as a pedagogical self-assessment tool
+
+</center>
+
+<div id="section" class="section level2 tabset tabset-fade" style="padding:50px">
+
+We set out to design a pedagogic assessment framework enabling a nuanced perspective on the degree of open and reproducible research teaching and mentoring. 
+
+In the first instance, we aim that teachers use the FORRT assessment to benchmark current teaching and mentoring practices. We have developed a survey to collect this information.
+
+
+Our framework currently includes six principles core to the teaching of reproducible and open science practices:
+
+* Reproducibility crisis and Credibility Revolution
+* Conceptual and statistical knowledge
+* Reproducible analyses
+* Open data and materials
+* Preregistration
+* Replication research
+
+Each principle will be evaluated on two dimensions: **Breadth** and **Depth**.
+
+*Breadth* describes how widely teaching is distributed and takes three levels:
+
+* **Not yet enacted, minimal breadth, or no evidence**: Although the principle may be discussed, it does not form part of a course / module component.
+* **Opportunities for some**: The principle is taught, for example, as part of an optional course or elective or workshop.
+* **Course requirement for all**: The principle is taught to all students, for example as part of the core course, compulsory module, or practical session.
+
+*Depth* describes the degree to which students interact with the core principles and takes four levels:
+
+* **Not yet enacted, minimal depth, or no evidence**: the curricula does not formally include teaching on the principle in question. Although instructors might mention the principle, it is not covered in depth and/or does not feature as part of the syllabi. 
+* **Knowledge**: Students are taught about the principle and are required to demonstrate sufficient understanding.
+* **Practice**: In addition to acquiring a knowledge base in the principle, students also put this understanding into practice in practical exercises.
+* **Application**: In addition to acquiring a knowledge base in the principle and practical skills; students are required to apply this understanding and skill set in a research project.
+
+
+FORRT enables a contrast between course content as it currently stands and the ideal of teaching open and reproducible research practices as part of core training. Benchmarking the *breadth* and *depth* of course content on these principles of open and reproducible research enables course leaders to identify content that is lacking or can be improved. Note that while the highest standards for teaching these principles would be a course required the application of reproducible and open research practices, we acknowledge that this is not always possible. However, since FORTT is a tool intended to evaluate the current teaching practices for a wild variety of departments, its score should be able to convey and reflect low to high adherence to the teaching principles proposed by FORRT.
+
+
+
+<br>
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTrmqPt1v15WBTsmv6ysgoAG_THb152o8z7g1-c_gkA8cNUguzPrC7D69TMDxLeYcNoZxccUqap04UD/pubhtml" width="910" height="500"></iframe>
+
+<br>

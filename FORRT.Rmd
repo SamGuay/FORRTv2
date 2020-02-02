@@ -1,0 +1,242 @@
+---
+title: "FORRT"
+subtitle: "Framework for Open and Reproducible Research Training"
+output: 
+  html_document:
+    css: style.css
+---
+
+***
+
+<center>
+
+## **A Framework for Open and Reproducible Research Training[^1]**
+
+```{r eval = FALSE, include = FALSE}
+[Sam Parsons](http://samdparsons.blogspot.com/), [Flavio Azevedo](http://flavioazevedo.com), [Carl Michael Galang](https://galangca.github.io/)
+```
+</center>
+
+<div id="section" class="section level2 tabset tabset-fade" style="padding:50px">
+
+### Introduction
+
+<div class="b">
+
+<br>
+
+
+### Abstract
+
+Current norms for the teaching and mentoring of higher education are rooted in anachronistic practices of bygone eras. Improving the transparency and rigor of science is the responsibility of all who engage in it. Ongoing attempts to improve research credibility have, however, neglected an essential aspect of the academic cycle: the training of researchers and consumers of research. Principled teaching and mentoring involve imparting students with an understanding of research findings in light of probabilistic uncertainty, and moreover, an understanding of best practices in knowledge advancement. We introduce a Framework for Open and Reproducible Research Training (FORRT). Its main goal is to provide educators with a pathway towards the incremental adoption of principled teaching and mentoring practices, including open and reproducible research. FORRT will act as a resource to support instructors, collating existing teaching pedagogies and materials that may be reused and adapted for use within existing courses. Moreover, FORRT can be used as a tool to benchmark the current level of training students receive across six clusters of open and reproducible research practices: ‘reproducibility and replicability knowledge’, ‘conceptual and statistical knowledge’, ‘reproducible analyses’, ‘preregistration’, ‘open data and materials’, and ‘replication research’. FORRT will strive to be an advocate for the establishment of principled teaching and mentorship as a fourth pillar of a true scientific utopia. 
+
+Above is the abstract for our manuscript introducing FORRT [https://osf.io/bnh7p](https://osf.io/bnh7p). We welcome input on FORRT itself, and on the manuscript; you can access the working document here (please select suggested changes): [tinyURL.com/FORRTworkingDOC](https://tinyURL.com/FORRTworkingDOC).
+
+We are actively seeking help to develop FORRT into the pedagogical resource we envisage. If you would like to help us support and advocate for teachers, please get in touch [here](mailto:FORRTproject@gmail.com). Please also see the '*implementation plan*' tab for more information on our current plans.
+
+
+<br><br>
+
+</div>
+
+
+### Principles
+
+<br>
+
+FORRT is centred around a framework comprising six clusters of open and reproducible research practices. Each cluster has six sub-clusters.
+
+<br>
+
+#### **Cluster 1: Reproducibility crisis and Credibility Revolution**
+
+**Summary**: Attainment of a grounding in the motivations and theoretical underpinnings of reproducible and open research. Integration with field specific content (i.e., or grounded in the history of replicability); 
+
+* Replication crisis and credibility revolution
+* Exploratory and confirmatory analyses
+* Questionable research practices (their 'theory') and  prevalence
+* Proposed improvement science initiatives on statistics, measurement, teaching, data sharing, code sharing, pre-registration, replication.
+* Ongoing debates, (e.g. incentives for and against open science).
+* Ethical considerations for improved practices.
+
+<center>
+
+```{R, eval = FALSE, include = FALSE}
+# I have put these into chunks so that they are not currently included. 
+![](Principle1.png) 
+```
+
+</center>
+
+<br>
+
+#### **Cluster 2: Conceptual and Statistical Knowledge**
+
+**Summary**: Enacting this principle indicates that students attain a grounding in fundamental statistics, measurement, and its implications. 
+
+* The logic of null hypothesis testing, p-values, Type I and II errors (and when and why they might happen).
+* Limitations and benefits of NHST, Bayesian and Likelihood approaches.
+* Effect sizes, Statistical power, Confidence Intervals.
+* Research Design, Sample Methods, and its implications for inferences.
+* Questionable research (QRPs) & measurement practices (QMPs).
+* Understand the relationship between all of the above.
+
+<center>
+
+```{r, eval = FALSE, include = FALSE}
+![](Principle2.png) 
+```
+
+</center>
+
+<br>
+
+#### **Cluster 3: Reproducible analyses**
+
+**Summary**: Reproducible analyses allow the checking of analytic pipelines and facilitate error correction. Enacting this principle requires students to move towards transparent and scripted analysis practices.
+
+* Strengths of reproducible pipelines
+* Scripted analyses compared with GUI
+* Data wrangling
+* Programming reproducible data analyses
+* Open source and free softwares
+* Tools to check yourself and others; statcheck, GRIM, and SPRITE
+
+<center>
+
+```{r, eval = FALSE, include = FALSE}
+![](Principle3.png) 
+```
+
+</center>
+
+<br>
+
+#### **Cluster 4: Open data and materials**
+
+**Summary**: Enacting this principle indicates that students have attained a grounding in open data and materials in both; using and sharing.
+
+* Knowledge of traditional publication models. Open access publishing, preprints
+* Reasons to share; for science, and for one’s own practices
+* Repositories; e.g. OSF, FigShare, GitHub
+* Accessing/sharing others data, code, and materials
+* Ethical considerations
+* Examples and consequences of accessing un/open data
+
+<center>
+
+```{r, eval = FALSE, include = FALSE}
+![](Principle4.png)
+```
+
+</center>
+
+<br>
+
+#### **Cluster 5: Preregistration**
+
+**Summary**: Preregistration entails laying out a complete methodology and analysis before a study has been undertaken. This facilitates transparency and removes several potential QRPs.
+
+* Purpose of preregistration - distinguishing exploratory and confirmatory analyses, transparency measures
+* Preregistration and registered reports - strengths and differences
+* When can you preregister? Can you preregister secondary data?
+* Writing a preregistration
+* Comparing a preregistration to a final study manuscript
+* Conducting a preregistered study
+
+<center>
+
+```{r, eval = FALSE, include = FALSE}
+![](Principle5.png) 
+```
+
+</center>
+
+<br>
+
+#### **Cluster 6: Replication research**
+
+**Summary**:  Replication research takes a variety of forms, each with a different purpose and contribution. Reproducible science requires replication research. 
+
+* Purposes of replication attempts - what is a 'failed' replication?
+* Large scale replication attempts
+* Distinguishing conceptual and direct replications
+* Conducting replication studies; challenges, limitations, and comparisons with the original study
+* Registered Replication Reports
+* The politics of replicating famous studies
+
+<br><br>
+
+Although not exhaustive, these concepts provide a broad coverage of each FORRT cluster.
+
+<center>
+```{r, eval = FALSE, include = FALSE}
+![](Principle6.png) 
+```
+
+</center>
+
+<div>
+
+
+### Implementation Plan
+
+<br>
+
+Our developing implementation plan is as follows (we are also open to feedback and suggestions):
+
+* Continue to develop FORRT. The ['introduction to FORRT' manuscript](https://doi.org/10.31219/osf.io/bnh7p) is intended as a starting point to elicit widespread feedback about the framework and its implementation.
+* Check with the community whether the pilot for the evaluation and its preliminary rankings can be improved upon.
+* Invite course leaders to become the first adopters of FORRT; to submit their materials, to complete a pedagogical assessment of their courses, and to join us in FORRT
+* To invite diverse feedback on the optimal implemention of the educational NEXUS. Including assistance with website development. 
+
+We are actively seeking help to develop FORRT into the pedagogical resource we envisage. If you would like to help us support and advocate for teachers, please get in touch [here](mailto:FORRTproject@gmail.com).
+
+
+```{r eval = FALSE, include = FALSE}
+# put into a chunk to leave out for the moment
+### References
+
+<br>
+
+Allie, Buffler, Campbell, Lubben, Evangelinos, Psillos, & Valassiades. (2003). Teaching measurement in the introductory physics laboratory, The Physics Teacher, 41(7), 394-401.
+
+Bakker, M., vanDijk, A., & Wicherts, J. M. (2012). The Rules of the Game Called Psychological Science. Perspectives on Psychological Science, 7(6), 543–554. http://doi.org/10.1177/1745691612459060
+
+Fiedler, K., & Schwarz, N. (2016). Questionable Research Practices Revisited. Social Psychological and Personality Science, 7(1), 45–52. http://doi.org/10.1177/1948550615612150
+
+Franco, A., Malhotra, N., & Simonovits, G. (2014). Publication bias in the social sciences: Unlocking the file drawer. Science, 345(6203), 1502–1505. https://doi.org/10.1126/science.1255484
+
+Higginson, A. D., & Munafo, M. R. (2016). Current incentives for scientists lead to underpowered studies with erroneous conclusions. PLoS Biology, 14(11), [e2000995]. DOI: 10.1371/journal.pbio.2000995
+
+Ioannidis, J. P. A. (2005) Why most published research findings are false. PLoS Medicine, 2(8), 0696–0701. http://doi.org/10.1371/journal.pmed.0020124
+
+Ioannidis, J. P. A., Munafo, M. R., Fusar-Poli, P., Nosek, B. A., & David, S. P. (2014). Publication and other reporting biases in cognitive sciences: Detection, prevalence, and prevention. Trends in Cognitive Sciences, 18. DOI: 10.1016/j.tics.2014.02.010
+
+John, L.K., Loewenstein, & Prelec. (2012). Measuring the prevalence of questionable research practices with incentives for truth telling. Psychological science, 23(5), 524-532. DOI: 0.1177/0956797611430953.
+
+McNutt, M. (2014). Reproducibility. Science, 343, 229. DOI: 10.1126/science.1250475
+
+Nosek, B. A., Ebersole, C. R., DeHaven, A. C., & Mellor, D. T. (2018). The preregistration revolution. Proceedings of the National Academy of Sciences, 115(11), 2600–2606. http://doi.org/10.1073/pnas.1708274114
+
+Nosek, B. A., & Lakens, D. (2014). Registered reports: A method to increase the credibility of published results. Social Psychology, 45(3), 137–141. http://doi.org/10.1027/1864-9335/a000192
+
+O’Boyle, E. H., Banks, C. B., & Gonzalez-Mulé, E. (2014). The chrysalis effect: How ugly initial results metamorphosize into beautiful articles. Journal of management, 43(2), 376-399. DOI: 10.1177/0149206314527133
+
+Open Science Collaboration. (2015). Estimating the reproducibility of psychological science. Science, 349(6251), aac4716. http://doi.org/10.1126/science.aac4716
+
+Miguel, E., Camerer, C., Casey, K., Cohen, J., Esterling, K. M., Gerber, A., Glennerster, R., Green, D. P., Humphreys, M., Imbens, G., Laitin, D., Madon, T., Nelson, L., Nosek, B. A., Petersen, M., Sedlmayr, R., Simmons, J. P., Simonsohn, U., & Van der Laan, M. (2014). Promoting transparency in social science research. Science, 343, 30-31
+
+Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). False-positive psychology: Undisclosed flexibility in data collection and analysis allows presenting any thing as significant. Psychological Science, 22(11), 1359–1366. http://doi.org/10.1177/0956797611417632
+
+Wagenmakers, E. J., Wetzels, R., Borsboom, D., van der Maas, H. L. J., & Kievit, R. A. (2012). An Agenda for Purely Confirmatory Research. Perspectives on Psychological Science, 7(6), 632–638. http://doi.org/10.1177/1745691612463078
+
+Zwaan, R. A., Etz, A., Lucas, R. E., Donnellan, M. B. (2017). Making Replication Mainstream. Behavioral and Brain Sciences, 1-50. doi:10.1017/S0140525X17001972
+
+<div>
+```
+
+<br>
+
+
+[^1]: **Authors note**. *This project was initiated at the 2018 meeting of the Society for the Improvement of Psychological Science in the “Teaching replicable and reproducible science” hackathon led by Kristen Lane and Heather Urry. The initial framework was developed in a subsequent working group consisting of: Sam Parsons, Flavio Azevedo, Carl Michael Galang, Kristin Lane, Lisa DeBruine, Benjamin Le, Donald Tellinghuisen, and Madeline Harms (we apologise if we have missed anybody - please let us know). The [current version of the paper](https://docs.google.com/document/d/1DYAeQ2-veg4AQqLHMCdOyLoAU2WH2I_oaJIKc9StXXE/edit?ts=5b62ed12#) introducing FORRT was drafted by Sam Parsons & Flavio Azevedo, with integral feedback and support from Carl Michael Galang. The FORRT website has been designed - and is maintained - by Flavio Azevedo. To further develop FORRT we are seeking additional contributors and will endeavor to acknowledge all that provided feedback on this project.*

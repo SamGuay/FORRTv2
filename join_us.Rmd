@@ -1,0 +1,51 @@
+---
+title: ""
+subtitle: ""
+output: 
+  html_document:
+    css: style.css
+    includes: 
+        before_body: header.html
+        after_body: footer.html
+---
+
+
+<div class="mycontent">
+
+<br>
+
+<center>
+
+## **Request of assistance**
+
+Last update: `r format(Sys.time(), '%d %B, %Y')`
+
+</center>
+
+<br>
+
+Thank you for your interest in FORRT. 
+
+Our goals are rather straightforward. We hope FORRT will be a useful tool supporting teachers looking to integrate open and reproducible research practices in their courses. Our secondary goal is to start a conversation on, and advocate for, placing greater support and value in teaching and mentoring – including raising the profile of open teaching materials and recognising their value.
+
+To achieve our goals, and in line with principles enshrined in FORRT, its manuscript will become an open online contributorship project, wherein the work of those supporting OS pedagogies are valued and formally recognized. With this, we hope to expand the scope and diversity of FORRT’s mission and its team. And it is our wish that you join us in this mission.
+
+#### An update you on our progress so far:
+
+We recently released a preprint introducing FORRT [https://osf.io/bnh7p](https://osf.io/bnh7p), and created a live-version of the manuscript for community participation and feedback [tinyURL.com/FORRTworkingDOC](tinyURL.com/FORRTworkingDOC). 
+
+We have also opened a Slack channel to keep everyone up-to-date and to provide a platform for ongoing discussions. You can join the channel here [https://tinyurl.com/FORRTslack](https://tinyurl.com/FORRTslack)
+
+FORRT is operated as an open contributorship - all are welcome to contribute, and we aim to recognise all contributions. See the [manuscript](https://osf.io/bnh7p) for more information.
+
+We are asking contributions for FORRT educational NEXUS, an e-learning platform acting as a hub for community-driven initiatives and resources. In this sense, the manuscript is only a (small) part of FORRT. As described in the manuscript, this platform will present the fullest opportunity FORRT has to offer. We will be particularly interested in contributions to the website, so if you (or your peers) are able to contribute to the development of the website, you would be helping make FORRT a powerful reality. But we also welcome other essential contributions such sharing your course materials, volunteering for OS mentoring, and submitting pedagogical reports of open and reproducible courses. 
+
+
+Thank you,
+
+The FORRT team
+
+
+
+</div>
+

@@ -1,0 +1,240 @@
+---
+title: "FORRT"
+subtitle: "Framework for Open and Reproducible Research Training"
+output: 
+  html_document:
+    css: style.css
+---
+
+***
+
+<br>
+
+<center>
+
+## **A Framework for Open and Reproducible Research Training**
+
+</center>
+
+FORRT is centred around a framework comprising six clusters of open and reproducible research practices. Each cluster has six sub-clusters.
+
+<div id="section" class="section level2 tabset tabset-fade" style="padding:50px">
+
+## {.tabset .tabset-fade}
+
+### Cluster 1
+
+<br><br>
+
+#### **Cluster 1: Reproducibility crisis and Credibility Revolution**
+
+<br>
+
+**Summary**: Attainment of a grounding in the motivations and theoretical underpinnings of reproducible and open research. Integration with field specific content (i.e., or grounded in the history of replicability); 
+
+* Replication crisis and credibility revolution
+* Exploratory and confirmatory analyses
+* Questionable research practices (their 'theory') and  prevalence
+* Proposed improvement science initiatives on statistics, measurement, teaching, data sharing, code sharing, pre-registration, replication.
+* Ongoing debates, (e.g. incentives for and against open science).
+* Ethical considerations for improved practices.
+
+Although not exhaustive, these concepts provide a broad coverage of this cluster. 
+
+
+<center>
+
+```{R, eval = FALSE, include = FALSE}
+# I have put these into chunks so that they are not currently included. 
+![](Principle1.png) 
+```
+
+</center>
+
+
+
+
+
+
+
+### Cluster 2
+
+
+<br><br>
+
+#### **Cluster 2: Conceptual and Statistical Knowledge**
+
+<br>
+
+**Summary**: Enacting this principle indicates that students attain a grounding in fundamental statistics, measurement, and its implications. 
+
+* The logic of null hypothesis testing, p-values, Type I and II errors (and when and why they might happen).
+* Limitations and benefits of NHST, Bayesian and Likelihood approaches.
+* Effect sizes, Statistical power, Confidence Intervals.
+* Research Design, Sample Methods, and its implications for inferences.
+* Questionable research (QRPs) & measurement practices (QMPs).
+* Understand the relationship between all of the above.
+
+Although not exhaustive, these concepts provide a broad coverage of this cluster.
+
+<center>
+
+```{r, eval = FALSE, include = FALSE}
+![](Principle2.png) 
+```
+
+</center>
+
+
+
+
+
+
+### Cluster 3
+
+
+<br><br>
+
+#### **Cluster 3: Reproducible analyses**
+
+<br>
+
+**Summary**: Reproducible analyses allow the checking of analytic pipelines and facilitate error correction. Enacting this principle requires students to move towards transparent and scripted analysis practices.
+
+* Strengths of reproducible pipelines
+* Scripted analyses compared with GUI
+* Data wrangling
+* Programming reproducible data analyses
+* Open source and free softwares
+* Tools to check yourself and others; statcheck, GRIM, and SPRITE
+
+
+Although not exhaustive, these concepts provide a broad coverage of this cluster.
+
+<center>
+
+```{r, eval = FALSE, include = FALSE}
+![](Principle3.png) 
+```
+
+</center>
+
+
+
+
+
+
+
+
+### Cluster 4
+
+
+<br><br>
+
+#### **Cluster 4: Open data and materials**
+
+<br>
+
+**Summary**: Enacting this principle indicates that students have attained a grounding in open data and materials in both; using and sharing.
+
+* Knowledge of traditional publication models. Open access publishing, preprints
+* Reasons to share; for science, and for one’s own practices
+* Repositories; e.g. OSF, FigShare, GitHub
+* Accessing/sharing others data, code, and materials
+* Ethical considerations
+* Examples and consequences of accessing un/open data
+
+
+Although not exhaustive, these concepts provide a broad coverage of this cluster.
+
+<center>
+
+```{r, eval = FALSE, include = FALSE}
+![](Principle4.png)
+```
+
+</center>
+
+
+
+
+
+
+
+
+
+
+### Cluster 5
+
+
+<br><br>
+
+#### **Cluster 5: Preregistration**
+
+<br>
+
+**Summary**: Preregistration entails laying out a complete methodology and analysis before a study has been undertaken. This facilitates transparency and removes several potential QRPs.
+
+
+
+* Purpose of preregistration - distinguishing exploratory and confirmatory analyses, transparency measures
+* Preregistration and registered reports - strengths and differences
+* When can you preregister? Can you preregister secondary data?
+* Writing a preregistration
+* Comparing a preregistration to a final study manuscript
+* Conducting a preregistered study
+
+
+
+Although not exhaustive, these concepts provide a broad coverage of this cluster.
+
+<center>
+
+```{r, eval = FALSE, include = FALSE}
+![](Principle5.png) 
+```
+
+</center>
+
+
+
+
+
+
+
+
+
+### Cluster 6
+
+
+<br><br>
+
+#### **Cluster 6: Replication research**
+
+<br>
+
+**Summary**:  Replication research takes a variety of forms, each with a different purpose and contribution. Reproducible science requires replication research. 
+
+* Purposes of replication attempts - what is a 'failed' replication?
+* Large scale replication attempts
+* Distinguishing conceptual and direct replications
+* Conducting replication studies; challenges, limitations, and comparisons with the original study
+* Registered Replication Reports
+* The politics of replicating famous studies
+
+
+Although not exhaustive, these concepts provide a broad coverage of this cluster.
+
+<center>
+```{r, eval = FALSE, include = FALSE}
+![](Principle6.png) 
+```
+
+</center>
+
+<div>
+
+##
+
+<br>
+

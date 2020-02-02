@@ -1,0 +1,43 @@
+---
+title: "<center><div class='mytitle'>Pedagogy Two</div></center>"
+date: "<center><div class='mysubtitle'>`r format(Sys.time(), '%d %B, %Y')`</div></center>"
+subtitle: "<center><div class='mysubtitle'>Awesome Subtitle</div></center>"
+author: 
+   - name          : "<center><div class='mysubtitle'>Sam Parsons</div></center>"
+     affiliation   : "<center><div class='mysubtitle'>Department of Psychology, Oxford University</div></center>"
+     corresponding : yes    # Define only one corresponding author
+     address       : "<center><div class='mysubtitle'>sam.parsons@psy.ox.ac.uk</div></center>"
+     email         : "<center><div class='mysubtitle'>email address</div></center>"
+abstract: <center><div class='mysubtitle'>
+  Latine discere constituto an duo, quas voluptua pro eu. Ne augue hendrerit cum. Sit ferri laudem ei, cu sapientem intellegat suscipiantur sea. At pri meliore euripidis. Has dicta mentitum forensibus ei, ex vitae patrioque gloriatur sea. In verterem principes mea. Quo quod regione ea, per id reque ornatus, ex ubique praesent abhorreant vix. Eu essent alterum maluisset vis. Viris percipit no eos, quo hinc delectus ex, cum quis soluta menandri in. Nam dico accumsan consulatu ut, mel et aliquam deleniti.Has an nihil affert. Te usu aeque possit imperdiet, volutpat salutatus liberavisse eum ut. Ut eum labores iracundia instructior. Qui no falli accommodare, eros impedit dissentias eum ad.</div></center>.
+
+output: 
+  html_document:
+    css: style.css
+---
+
+<div class="mycontent">
+
+<br>
+
+Noluisse antiopam pertinacia te vel. Unum democritum adolescens quo id. Id malorum explicari vix. Vix at augue ubique, vix te civibus deserunt, sit intellegat eloquentiam ex. Dicam omittam comprehensam et ius, amet postulant ad duo, ei viris dolores per.
+
+No tamquam nostrud sit. Veniam impetus viderer ius eu, duo affert semper adolescens ut. Eam eirmod intellegat et. Id mei habemus torquatos, illud evertitur at nec, mel an ferri suscipit.
+
+Nec erat ubique sensibus an, id libris fabulas vel. Equidem delicata pericula duo eu, at ius populo putent philosophia. Pri augue argumentum te, vel ferri oratio vocent eu. Nec augue eirmod in, at magna prodesset interesset per. Et vim duis vituperata dissentiunt.
+
+Scaevola maluisset assentior pro te. His an unum soleat, ne his solet regione impedit. At eos mucius singulis. Fugit numquam platonem ne his. Sed in prima senserit, tamquam fabellas has ea.
+
+Tantas offendit expetenda sed eu, ea pri aeque vidisse pertinax. Sed cu nostro albucius, an elit reformidans nec, sonet causae ei eum. Et wisi nemore eirmod qui, eu sed dicam exerci equidem. Primis epicuri recteque id qui.
+
+His an partem similique constituam, eos ad minimum voluptua facilisis, his dolorem atomorum ocurreret an. Ex error meliore fierent mel. Possit philosophia pro eu, mea errem graecis ex, pri posse dissentias cu. Nam at lorem viris persius, et usu etiam laoreet. Id mel repudiare reprehendunt, cum nisl populo cu, appetere ocurreret democritum et usu. Cu ludus deseruisse sed, eam magna invidunt ei.
+
+Utinam aperiri iuvaret ad sed. At duo animal legendos deseruisse, ut ius homero utamur. Ei omnis utroque vel, pro nulla gubergren id. Posse vituperata ad sit, qui fabulas graecis reprimique ne. Quod appetere deterruisset at pro, nec te causae euismod. At nam solet menandri deserunt, ea usu utinam invenire efficiantur.
+
+Ei impedit facilis nominavi pro, qui id quidam labores periculis. Qui reque movet putant an, eum cu amet tation. Eu his atqui utroque civibus, te eos enim assueverit. Animal dolores intellegebat in pri, esse erant no vis. Eu eos vivendo interpretaris, his in velit veniam.
+
+Est ne oratio scaevola, cetero corrumpit conclusionemque eu eam. Te graeci scriptorem omittantur quo, id pro graece denique praesent. Usu eius putent te. In volumus hendrerit vim. Ne gubergren voluptatum nec, vim iriure sensibus reformidans ei. An modo insolens voluptatibus mei.
+
+Ut nec atomorum disputando, ut magna molestie accusamus duo. Movet dolore volumus in mea. Quem vidisse eu pri, mei tibique maluisset contentiones ex, idque mediocritatem his in. Ut numquam lobortis perpetua eam.
+
+</div>

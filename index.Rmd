@@ -1,0 +1,112 @@
+---
+title: "<center><div class='mytitle'>Welcome to FORRT</div></center>"
+subtitle: "<center><div class='mysubtitle'>_In pursuit of the best conceivable educational practices in higher education_</div></center>"
+output: 
+  html_document:
+    css: style.css
+    includes: 
+        before_body: header.html
+        after_body: footer.html
+---
+
+
+<div class="mycontent">
+
+<br>
+
+## What is FORRT?
+***
+
+Current norms for the teaching and mentoring of higher-education are rooted in obsolete practices of bygone eras. Improving transparency and rigor of science is the responsibility of all who engage in it, but ongoing attempts have neglected an essential aspect of the academic machinery: students. FORRT, a Framework for Open and Reproducible Research Training, is introduced to raise awareness of the pedagogical implications of Open Science and its associated challenges (curricular reform, epistemological uncertainty, methods education, openness and social justice). Aimed at the training of researchers and consumers of science, FORRT is an effective, evolving, and community-driven framework toward the incremental adoption of principled teaching and mentoring practices, and supporting instructors by collating existing teaching pedagogies and materials to be reused and adapted for use within new and existing courses.
+
+
+<br>
+
+## How Can You Help?
+***
+
+<br>
+
+<div class="column-left">
+![](assets/img/megaphone.png){width=90px} <br><br>
+**Spread the Word** 
+<br>
+Better Education is for everyone. Help us spread the word by joining our open [Slack channel](https://forrt.slack.com/) and invite your friends and colleagues to be part of our community.
+</div>
+
+
+<div class="column-center">
+![](assets/img/teamwork.png){width=90px} <br><br>
+**Join Our Team** 
+<br>
+Everything we develop and produce is in the open. You can join our team [on GitHub](https://github.com/flavioazevedo/FORRT). If you want to become an active contributors [email us](mailto:FORRTproject@gmail.com).
+</div>
+
+
+<div class="column-right">
+![](assets/img/partner.png){width=90px} <br><br>
+**Become a Partner** 
+<br>
+We have three different partner levels (Core, Strategic and Institutional) that help us to develop the principles enshrined in FORRT. If you want to become a partner [email us](mailto:FORRTproject@gmail.com).
+</div>
+
+
+<br>
+
+## The Products of FORRT
+***
+
+We are asking contributions for FORRT educational NEXUS, an e-learning platform acting as a hub for community-driven initiatives and resources. In this sense, the manuscript is only a (small) part of FORRT. As described in the manuscript, this platform will present the fullest opportunity FORRT has to offer. We will be particularly interested in contributions to the website, so if you (or your peers) are able to contribute to the development of the website, you would be helping make FORRT a powerful reality. But we also welcome other essential contributions such sharing your course materials, volunteering for OS mentoring, and submitting pedagogical reports of open and reproducible courses. 
+
+
+<br>
+
+## Partnerships
+***
+
+<br><br>
+
+<center>
+![](assets/img/Partnerships v2.PNG){width=800px} <br><br>
+</center>
+
+<br><br>
+
+Meta-psychology special issue
+We have an opportunity in conjunction with meta-psychology (https://open.lnu.se/index.php/metapsychology) and the Psychological Science Accelerator (https://psysciacc.org/) to work on a recurring special issue. The call will request teaching materials, including the pedagogical aspect desired by FORRT. This will be an ongoing source of resources to curate with FORRT and for FORRT to disseminate. This also sets the stage for our vision of academia in which teaching resources are more valued - hijacking the publications structure to include these excellent and open resources is a part of this. 
+
+There are several important tasks that must be achieved:
+Clarifying the call
+Specifying what ‘counts’ and the standards we expect the resources to meet - particularly with the pedagogical aspect (i.e. everything ‘else’ that goes into teaching this resource in addition to the materials themselves)
+Gathering a team of reviewers
+
+
+<br>
+
+## Stay Updated
+***
+
+Subscribe to our newsletter, get the latest news from FORRT and about our initiatives.
+
+<p>
+  <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample1" role="button" aria-expanded="false" aria-controls="collapseExample1">
+    Subscribe to our Newsletter
+  </a>
+</p>
+<div class="collapse" id="collapseExample1">
+  <div class="card card-body">
+
+  ```{r}
+  "Feature available soon"
+  ```
+
+  </div>
+</div>
+
+
+<br>
+
+</div>
+
+
+<br><br>
