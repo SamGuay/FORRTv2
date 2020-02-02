@@ -1,0 +1,18 @@
+---
+title: "Radix for R Markdown"
+description: | 
+  Scientific and technical writing, native to the web
+date: May 4, 2018
+author:
+  - name: "JJ Allaire"
+    url: https://github.com/jjallaire
+    affiliation: RStudio
+    affiliation_url: https://www.rstudio.com
+  - name: "Rich Iannone"
+    url: https://github.com/rich-iannone
+    affiliation: RStudio
+    affiliation_url: https://www.rstudio.com
+output: radix::radix_article
+---
+
+Your content

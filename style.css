@@ -92,3 +92,13 @@ a {
     -moz-columns: 3 100px;
   }
 </style>
+
+
+<style>
+pre.bluecars {
+    background-color: #aabbff !important;
+}
+pre.redcars {
+    background-color: #ff6bbc !important;
+}
+</style>
