@@ -1,0 +1,22 @@
+---
+title: "<center><div class='mytitle'>Get Involved</div></center>"
+subtitle: "<center><div class='mysubtitle'>_Join the movement for better education</div></center>"
+output: 
+  html_document:
+    css: style.css
+    includes: 
+        before_body: header.html
+---
+
+
+<div class="mycontent">
+
+
+## The Products of FORRT
+***
+
+We are asking contributions for FORRT educational NEXUS, an e-learning platform acting as a hub for community-driven initiatives and resources. In this sense, the manuscript is only a (small) part of FORRT. As described in the manuscript, this platform will present the fullest opportunity FORRT has to offer. We will be particularly interested in contributions to the website, so if you (or your peers) are able to contribute to the development of the website, you would be helping make FORRT a powerful reality. But we also welcome other essential contributions such sharing your course materials, volunteering for OS mentoring, and submitting pedagogical reports of open and reproducible courses. 
+
+
+
+</div>

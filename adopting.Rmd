@@ -12,23 +12,16 @@ output:
 <div class="mycontent">
 
 
-<br><br><br>
-
-
-There are several ways. **[INCLUDE INTRO TEXT]**
-
-
-
 ## Existing educational materials
 ***
 
 <br>
 
 <div class="column-left">
-![](assets/img/partner.png){width=120px} <br><br>
+![](assets/img/high5.png){width=160px} <br><br>
 </div>
 
-Make your existing teaching and mentoring materials open. These can in  about prototypical subject-matters like in areas within Psychology, Political Science, Statistics, Economics, Neuroscience, Philosophy, History, etc. These can be in any language. You can then iteratively improve you materials. Non-exhaustive examples are: enhacing its documentation, adding media (transcripts, voice, video), making it multilanguage, and accessible to people with disability. The goal is to make your materials as understandable as possible to others, so they can be useful for both learning and teaching purposes. Other educators can then reuse and/or adapt it to their own context and needs - reducing time encumberment for producing high-quality materials and its access. 
+Make your existing teaching and mentoring materials open. These can in  about prototypical subject-matters like in areas within Psychology, Political Science, Statistics, Economics, Neuroscience, Philosophy, History, etc. These can be in any language. You can then iteratively improve you materials. Non-exhaustive examples are: enhacing its documentation, adding media (transcripts, voice, video), making it multilanguage, and accessible to people with disability. The goal is to make your materials as understandable as possible to others, so they can be useful for both learning and teaching purposes. Other educators can then reuse and/or adapt it to their own context and needs - reducing time encumberment for producing high-quality materials and its access - effectively allowing meaningful participation of civil society in learning, research and innovation.
 
 
 ## Past and current research materials
@@ -47,6 +40,20 @@ Make your research open. An often neglected aspect is that your research serves 
 If you want to learn more about "How to Open Science", visit [FORRT's Educational Nexus](https://forrtv2.netlify.com/as.resource.tool.html).
 
 
+
+<br><br>
+
+```{redcars}
+[to add]
+There are many ways to implement FORRT's Pricipled Education. 
+
+* One regards the "method of teaching". One can foster an Open envirnoment so students can exercise "Open Learning" in which access to information and good-quality educational materials are not where the "grading" and "evaluation" happens but rather at the processing level, at the creativity, and ability to diferenciate themselves.
+
+```
+
+
+
+<br>
 
 
 

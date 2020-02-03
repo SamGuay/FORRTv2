@@ -56,30 +56,39 @@ We have three different partner levels (Core, Strategic and Institutional) that 
 ## The Products of FORRT
 ***
 
-We are asking contributions for FORRT educational NEXUS, an e-learning platform acting as a hub for community-driven initiatives and resources. In this sense, the manuscript is only a (small) part of FORRT. As described in the manuscript, this platform will present the fullest opportunity FORRT has to offer. We will be particularly interested in contributions to the website, so if you (or your peers) are able to contribute to the development of the website, you would be helping make FORRT a powerful reality. But we also welcome other essential contributions such sharing your course materials, volunteering for OS mentoring, and submitting pedagogical reports of open and reproducible courses. 
 
+<div class="column-left">
+[ ![](assets/img/compose.png "Click for FORRT's preprint"){width=140px} ](https://osf.io/bnh7p/)
+<br><br>
+</div>
+**Manuscript**. Lorem ipsum dolor sit amet, mea in malis putent. Ut elit corpora recusabo his, pri modo laudem prodesset an. Accusam suscipiantur cu has, ex sit eripuit recusabo, case nostrum appellantur quo id. Perfecto molestiae vim at, duo prima quando meliore id, sit probo consulatu at. Has ad vitae blandit, vix at erant iisque vocibus. Nam no idque malorum abhorreant, vim ad singulis constituto. Mea solet interpretaris ne, cu mea inani quaeque intellegat. Ius eu bonorum mentitum, amet accusata ad eos. Maluisset reprimique ex qui, nonumy labore an per, nominati voluptatum ea nec. Voluptua phaedrum te usu, amet solet accusam duo ne, probatus argumentum mel ut. Nec cu munere legere volutpat. Qui omnium patrioque ad, his tritani vivendum dignissim eu. Nam brute habemus ea. Pri eu causae prodesset, aliquid explicari in sea. Persius intellegat mei at, has eleifend sadipscing at. Ius no inani sententiae complectitur, ne mundi placerat cum. Civibus denique pri in. Ex nobis sanctus ius.
+
+
+
+<br>
+
+[include]
+* Educational Nexus
+* Pedagogies
+* Presentations
 
 <br>
 
 ## Partnerships
 ***
 
-<br><br>
+<br>
 
 <center>
 ![](assets/img/Partnerships v2.PNG){width=800px} <br><br>
 </center>
 
-<br><br>
+<br>
 
-Meta-psychology special issue
-We have an opportunity in conjunction with meta-psychology (https://open.lnu.se/index.php/metapsychology) and the Psychological Science Accelerator (https://psysciacc.org/) to work on a recurring special issue. The call will request teaching materials, including the pedagogical aspect desired by FORRT. This will be an ongoing source of resources to curate with FORRT and for FORRT to disseminate. This also sets the stage for our vision of academia in which teaching resources are more valued - hijacking the publications structure to include these excellent and open resources is a part of this. 
+|      __*Meta-psychology special issue*__. We have an opportunity in conjunction with [Meta-Psychology](https://open.lnu.se/index.php/metapsychology) and the [Psychological Science Accelerator](https://psysciacc.org/) to work on a recurring special issue. The call will request teaching materials, including the pedagogical aspect desired by FORRT. This will be an ongoing source of resources to curate with FORRT and for FORRT to disseminate. This also sets the stage for our vision of academia in which teaching resources are more valued - changing the publications structure to include these excellent and open resources is a part of this. 
 
-There are several important tasks that must be achieved:
-Clarifying the call
-Specifying what ‘counts’ and the standards we expect the resources to meet - particularly with the pedagogical aspect (i.e. everything ‘else’ that goes into teaching this resource in addition to the materials themselves)
-Gathering a team of reviewers
 
+|      __*Center for Open Science Knowledge Base*__. We are partnering up with OSKB on 
 
 <br>
 

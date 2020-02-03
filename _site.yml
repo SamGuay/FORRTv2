@@ -25,13 +25,13 @@ navbar:
           href: GetInvolved.html
         - text: "Mission"
           href: Mission.html          
-        - text: "Partnerships"
-          href: partnerships.html
+#        - text: "Partnerships"
+#          href: partnerships.html
         - text: "People"
           href: people.html
         - text: "Policy-Making"
           href: Policy-Making.html
-#        - text: "Where are we?"
+#        - text: "Where in the Globe?"
 #          href: Map.html     
 #        - text: "Principles"
 #          href: principles.html
