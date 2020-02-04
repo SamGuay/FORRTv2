@@ -1,0 +1,159 @@
+---
+title: "<center><div class='mytitle'>People</div></center>"
+subtitle: "<center><div class='mysubtitle'>_Who are we?_</div></center>"
+output: 
+  html_document:
+    css: style.css
+    includes: 
+        before_body: header.html
+---
+
+
+<div class="mycontent">
+
+## CORE team
+***
+
+<div class="column-left-people"><br>
+[ ![](assets/img/flavio.png "Personal Website"){width=130px} ](http://flavioazevedo.com/)
+<br>
+</div>
+*Flavio Azevedo*, a Fulbright fellow, is currently working as a research associate at the Institute for Communication Science (IfKW) at Friedrich Schiller University Jena, Germany. Recently, Flavio was named as one of the 100 most influential early career Portuguese via the "Global Shapers" initiative by the World Economic Forum.
+
+<br>
+
+<div class="column-right-people">
+[ ![](assets/img/sam.jpg "Personal Website"){width=130px} ](http://flavioazevedo.com/)
+<br>
+</div>
+
+*Sam Parsons* is per affert forensibus dissentias cu. Nostro alterum eu cum, libris platonem eam ei. Vel at eius omnis. Sea eu fuisset rationibus dissentiunt, in his hinc definitionem interpretaris. Vim eu nihil eripuit repudiandae, liberavisse disputationi ne his. Accusamus salutatus consequuntur et pro, ea sed commodo periculis.
+
+<br>
+
+
+<div class="column-left-people">
+[ ![](assets/img/avatar_fem.png "Personal Website"){width=130px} ](http://flavioazevedo.com/)
+<br>
+</div>
+
+*Crystal Steltenpohl* is per affert forensibus dissentias cu. Nostro alterum eu cum, libris platonem eam ei. Vel at eius omnis. Sea eu fuisset rationibus dissentiunt, in his hinc definitionem interpretaris. Vim eu nihil eripuit repudiandae, liberavisse disputationi ne his. Accusamus salutatus consequuntur et pro, ea sed commodo periculis.
+
+<br>
+
+<div class="column-right-people">
+[ ![](assets/img/avatar_fem1.png  "Personal Website"){width=130px} ](http://flavioazevedo.com/)
+<br>
+</div>
+
+*Erin Buchanan* is per affert forensibus dissentias cu. Nostro alterum eu cum, libris platonem eam ei. Vel at eius omnis. Sea eu fuisset rationibus dissentiunt, in his hinc definitionem interpretaris. Vim eu nihil eripuit repudiandae, liberavisse disputationi ne his. Accusamus salutatus consequuntur et pro, ea sed commodo periculis.
+
+<br>
+
+<div class="column-left-people">
+[ ![](assets/img/avatar_fem2.png "Personal Website"){width=130px} ](http://flavioazevedo.com/)
+<br>
+</div>
+
+*Kimberly Quinn* is per affert forensibus dissentias cu. Nostro alterum eu cum, libris platonem eam ei. Vel at eius omnis. Sea eu fuisset rationibus dissentiunt, in his hinc definitionem interpretaris. Vim eu nihil eripuit repudiandae, liberavisse disputationi ne his. Accusamus salutatus consequuntur et pro, ea sed commodo periculis.
+
+<br>
+
+## Advisors
+***
+<br>
+
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+
+
+<div class="column-left">
+[ ![](assets/img/avatar_male.png "Personal Website"){width=130px} ](http://flavioazevedo.com/)
+
+*John Doe, PhD*
+
+<!-- Add font awesome icons -->
+<p style="text-align: center;">
+    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl" 
+      class="ai ai-google-scholar-square ai-2x"></a>
+    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3" 
+      class="ai ai-researchgate ai-2x"></a>
+    <a href="https://orcid.org/0000-0001-9000-8513" 
+      class="ai ai-orcid ai-2x"></a>
+    <a href="https://osf.io/6ycwh/" 
+      class="ai ai-osf ai-2x"></a>
+    <a href="https://publons.com/researcher/1551653/flavio-azevedo/" 
+      class="fa fa-researcherid ai-2x"></a>
+    <a href="https://github.com/flavioazevedo" 
+      class="fa fa-github ai-2x"></a></p>
+
+
+</div>
+
+<div class="column-center">
+[ ![](assets/img/avatar_male.png "Personal Website"){width=130px} ](http://flavioazevedo.com/)
+
+*John Doe, PhD*
+
+<!-- Add font awesome icons -->
+<p style="text-align: center;">
+    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl" 
+      class="ai ai-google-scholar-square ai-2x"></a>
+    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3" 
+      class="ai ai-researchgate ai-2x"></a>
+    <a href="https://orcid.org/0000-0001-9000-8513" 
+      class="ai ai-orcid ai-2x"></a>
+    <a href="https://osf.io/6ycwh/" 
+      class="ai ai-osf ai-2x"></a>
+    <a href="https://publons.com/researcher/1551653/flavio-azevedo/" 
+      class="fa fa-researcherid ai-2x"></a>
+    <a href="https://github.com/flavioazevedo" 
+      class="fa fa-github ai-2x"></a></p>
+<br>
+
+
+</div>
+
+<div class="column-right">
+[ ![](assets/img/avatar_male.png "Personal Website"){width=130px} ](http://flavioazevedo.com/)
+
+*John Doe, PhD*
+
+<!-- Add font awesome icons -->
+<p style="text-align: center;">
+    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl" 
+      class="ai ai-google-scholar-square ai-2x"></a>
+    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3" 
+      class="ai ai-researchgate ai-2x"></a>
+    <a href="https://orcid.org/0000-0001-9000-8513" 
+      class="ai ai-orcid ai-2x"></a>
+    <a href="https://osf.io/6ycwh/" 
+      class="ai ai-osf ai-2x"></a>
+    <a href="https://publons.com/researcher/1551653/flavio-azevedo/" 
+      class="fa fa-researcherid ai-2x"></a>
+    <a href="https://github.com/flavioazevedo" 
+      class="fa fa-github ai-2x"></a></p>
+
+
+</div>
+
+<br>
+
+
+<br>
+
+<br>
+
+## Pricipled Teachers and Mentors
+***
+
+<br>
+
+## Code of Conduct Committee
+***
+
+<br>
+
+</div>
+
+

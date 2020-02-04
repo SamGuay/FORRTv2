@@ -12,52 +12,34 @@ output:
 <div class="mycontent">
 
 
+
+## Learning about FORRT
+***
+We recently released a preprint introducing FORRT. [https://osf.io/bnh7p](https://osf.io/bnh7p)
+
+
 ## Getting Involved
 ***
 
-We recently released a preprint introducing FORRT [https://osf.io/bnh7p](https://osf.io/bnh7p), and created a live-version of the manuscript for community participation and feedback [tinyURL.com/FORRTworkingDOC](tinyURL.com/FORRTworkingDOC). 
+We have also opened a Slack channel to keep everyone up-to-date and to provide a platform for ongoing discussions. You can join the channel here [https://tinyurl.com/FORRTslack](https://tinyurl.com/FORRTslack). 
 
-We have also opened a Slack channel to keep everyone up-to-date and to provide a platform for ongoing discussions. You can join the channel here [https://tinyurl.com/FORRTslack](https://tinyurl.com/FORRTslack)
 
-FORRT is operated as an open contributorship - all are welcome to contribute, and we aim to recognise all contributions. See the [manuscript](https://osf.io/bnh7p) for more information.
+<br>
+
+We created a live-version of the manuscript for community participation and feedback [tinyURL.com/FORRTworkingDOC](tinyURL.com/FORRTworkingDOC). FORRT is operated as an open contributorship - all are welcome to contribute, and we aim to recognise all contributions. See the [manuscript](https://tinyurl.com/FORRTslack) for more information.
+
+<br>
+
+<br><br>
+
+```{redcars}
+[be more specific here. we need help with several parts of educational hub and pedagogies]
+```
+
+<br>
 
 We are asking contributions for FORRT educational NEXUS, an e-learning platform acting as a hub for community-driven initiatives and resources. In this sense, the manuscript is only a (small) part of FORRT. As described in the manuscript, this platform will present the fullest opportunity FORRT has to offer. We will be particularly interested in contributions to the website, so if you (or your peers) are able to contribute to the development of the website, you would be helping make FORRT a powerful reality. But we also welcome other essential contributions such sharing your course materials, volunteering for OS mentoring, and submitting pedagogical reports of open and reproducible courses. 
 
-
-## How Can You Help?
-***
-
 <br>
-
-<div class="column-left">
-![](assets/img/megaphone.png){width=90px} <br><br>
-**Spread the Word** 
-<br>
-Better Education is for everyone. Help us spread the word by joining our open [Slack channel](https://forrt.slack.com/) and invite your friends and colleagues to be part of our community.
-</div>
-
-
-<div class="column-center">
-![](assets/img/teamwork.png){width=90px} <br><br>
-**Join Our Team** 
-<br>
-Everything we develop and produce is in the open. You can join our team [on GitHub](https://github.com/flavioazevedo/FORRT). If you want to become an active contributors [email us](mailto:FORRTproject@gmail.com).
-</div>
-
-
-<div class="column-right">
-![](assets/img/partner.png){width=90px} <br><br>
-**Become a Partner** 
-<br>
-We have three different partner levels (Core, Strategic and Institutional) that help us to develop the principles enshrined in FORRT. If you want to become a partner [email us](mailto:FORRTproject@gmail.com).
-</div>
-
-Lorem ipsum dolor sit amet, an conceptam definitiones vix, velit blandit mandamus no has. Dolorum interesset sadipscing duo id, cum et oratio corpora nostrum, quo primis alterum probatus no. Ius in luptatum erroribus, quem adversarium ne his. Et viris voluptaria nec, id nam adhuc sensibus, euismod abhorreant eloquentiam at eam. Ea vix accusam comprehensam, usu ea omnium intellegat honestatis, ad vix alia tollit urbanitas. An sit enim dissentiunt, ei evertitur disputationi cum. Qui ei rebum veritus, mel at facilis civibus sapientem. Lorem utamur graecis mei an, erat debet ignota ut eam, ut graece mucius ridens eam. Pri ne nibh idque alienum, et autem accusam delicatissimi eum, mea patrioque pertinacia definitionem te. Id autem alterum facilisi ius. Cu error decore dictas per, vim dicat suscipiantur at. Mundi graece indoctum per no, et mei sumo voluptatum. Ea eos vero dolor, enim equidem argumentum has ad. Usu id essent verear. Audiam probatus te sit, ex sed pertinacia cotidieque. Elitr aliquid sapientem mea ne, ius hinc salutatus ullamcorper in.
-
-Ut maluisset urbanitas suscipiantur sed. Vel facete possim definitiones in, vis ex sumo autem dolor. Has nostrum ocurreret eloquentiam te, his ad maluisset splendide percipitur. Eam assum noluisse complectitur cu, tation ubique discere est ex. Movet deserunt oportere et usu, omnium expetendis definitionem cum id, omnes definitionem ei eos. Nullam volumus honestatis ei pri, graeco tractatos sadipscing eum ad.
-
-Vero diceret contentiones eos an. Erat molestie vivendum cum ad, ius in probo veritus, te maiorum appetere placerat pro. Sea solum mandamus te. Cum saepe nostrum no, et eros illud dicta nam.
-
-
 
 </div>

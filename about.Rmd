@@ -14,12 +14,47 @@ output:
 <div class="mycontent">
 
 
+|      *[describe (a) who we are; how to reach us (again! info also on "get-involved"), explain rationale for FORRT, why, etc]* Lorem ipsum dolor sit amet, an conceptam definitiones vix, velit blandit mandamus no has. Dolorum interesset sadipscing duo id, cum et oratio corpora nostrum, quo primis alterum probatus no. Ius in luptatum erroribus, quem adversarium ne his. Et viris voluptaria nec, id nam adhuc sensibus, euismod abhorreant eloquentiam at eam. Ea vix accusam comprehensam, usu ea omnium intellegat honestatis, ad vix alia tollit urbanitas. An sit enim dissentiunt, ei evertitur disputationi cum. Qui ei rebum veritus, mel at facilis civibus sapientem. Lorem utamur graecis mei an, erat debet ignota ut eam, ut graece mucius ridens eam. Pri ne nibh idque alienum, et autem accusam delicatissimi eum, mea patrioque pertinacia definitionem te. Id autem alterum facilisi ius. Cu error decore dictas per, vim dicat suscipiantur at. Mundi graece indoctum per no, et mei sumo voluptatum. Ea eos vero dolor, enim equidem argumentum has ad. Usu id essent verear. Audiam probatus te sit, ex sed pertinacia cotidieque. Elitr aliquid sapientem mea ne, ius hinc salutatus ullamcorper in. Ut maluisset urbanitas suscipiantur sed. Vel facete possim definitiones in, vis ex sumo autem dolor. Has nostrum ocurreret eloquentiam te, his ad maluisset splendide percipitur. Eam assum noluisse complectitur cu, tation ubique discere est ex. Movet deserunt oportere et usu, omnium expetendis definitionem cum id, omnes definitionem ei eos. Nullam volumus honestatis ei pri, graeco tractatos sadipscing eum ad.
 
-Lorem ipsum dolor sit amet, an conceptam definitiones vix, velit blandit mandamus no has. Dolorum interesset sadipscing duo id, cum et oratio corpora nostrum, quo primis alterum probatus no. Ius in luptatum erroribus, quem adversarium ne his. Et viris voluptaria nec, id nam adhuc sensibus, euismod abhorreant eloquentiam at eam. Ea vix accusam comprehensam, usu ea omnium intellegat honestatis, ad vix alia tollit urbanitas. An sit enim dissentiunt, ei evertitur disputationi cum. Qui ei rebum veritus, mel at facilis civibus sapientem. Lorem utamur graecis mei an, erat debet ignota ut eam, ut graece mucius ridens eam. Pri ne nibh idque alienum, et autem accusam delicatissimi eum, mea patrioque pertinacia definitionem te. Id autem alterum facilisi ius. Cu error decore dictas per, vim dicat suscipiantur at. Mundi graece indoctum per no, et mei sumo voluptatum. Ea eos vero dolor, enim equidem argumentum has ad. Usu id essent verear. Audiam probatus te sit, ex sed pertinacia cotidieque. Elitr aliquid sapientem mea ne, ius hinc salutatus ullamcorper in.
 
-Ut maluisset urbanitas suscipiantur sed. Vel facete possim definitiones in, vis ex sumo autem dolor. Has nostrum ocurreret eloquentiam te, his ad maluisset splendide percipitur. Eam assum noluisse complectitur cu, tation ubique discere est ex. Movet deserunt oportere et usu, omnium expetendis definitionem cum id, omnes definitionem ei eos. Nullam volumus honestatis ei pri, graeco tractatos sadipscing eum ad.
 
-Vero diceret contentiones eos an. Erat molestie vivendum cum ad, ius in probo veritus, te maiorum appetere placerat pro. Sea solum mandamus te. Cum saepe nostrum no, et eros illud dicta nam.
+## History
+***
+
+This project was initiated at the 2018 meeting of the Society for the Improvement of Psychological Science in the “Teaching replicable and reproducible science” hackathon led by Kristen Lane and Heather Urry. The initial framework was developed in a subsequent working group consisting of: Flavio Azevedo, Sam Parsons, Carl Michael Galang, Kristin Lane, Lisa DeBruine, Benjamin Le, Donald Tellinghuisen, and Madeline Harms (we apologise if we have missed anybody - please let us know).
+
+
+## Partners
+***
+
+* Meta-Psychology
+* Psychological Science Accelerator
+* OSKB
+* ICA
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </div>
+
+<br><br>
+
+```{redcars}
+examples:
+
+https://opensciencemooc.eu/about/
+```
+
+
+
+<br>
