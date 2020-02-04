@@ -17,8 +17,7 @@ output:
 ## What is FORRT?
 ***
 
-Current norms for the teaching and mentoring of higher-education are rooted in obsolete practices of bygone eras. Improving transparency and rigor of science is the responsibility of all who engage in it, but ongoing attempts have neglected an essential aspect of the academic machinery: students. FORRT, a Framework for Open and Reproducible Research Training, is introduced to raise awareness of the pedagogical implications of Open Science and its associated challenges (curricular reform, epistemological uncertainty, methods education, openness and social justice). Aimed at the training of researchers and consumers of science, FORRT is an effective, evolving, and community-driven framework toward the incremental adoption of principled teaching and mentoring practices, and supporting instructors by collating existing teaching pedagogies and materials to be reused and adapted for use within new and existing courses.
-
+Current norms for the teaching and mentoring of higher-education are rooted in obsolete practices of bygone eras. Improving transparency and rigor of science is the responsibility of all who engage in it, but ongoing attempts have neglected an essential aspect of the academic machinery: students. FORRT, a Framework for Open and Reproducible Research Training, is introduced to raise awareness of the pedagogical implications of Open Science and its associated challenges (curricular reform, epistemological uncertainty, methods education, openness and social justice). Aimed at the training of researchers and consumers of science, FORRT is an effective, evolving, and community-driven framework toward the incremental adoption of principled teaching and mentoring practices, and supporting instructors by collating existing teaching pedagogies and materials to be reused and adapted for use within new and existing courses. With FORRT, educators in higher-education have an unprecedented opportunity to shape the minds and future of the consumers of science and the next generation of academics. Numerous scholars consider as a significant part of their responsibilities to contribute to the next generations’ edification and professional development – _i.e._, broadening their horizons, imparting expertise into the acquisition of knowledge independently, fostering the conditions to discover connections of seemingly unrelated phenomena, helping develop the tools and self-confidence necessary to challenge outdated dogma and its roots on current societal and educational institutions. We hope FORRT will help educators in these goals. In this sense, at its best, FORRT should be the answer to the question **_“what are the best conceivable educational practices in higher education and how to achieve it?”_**
 
 <br>
 
@@ -57,22 +56,31 @@ We have three different partner levels (Core, Strategic and Institutional) that 
 ***
 
 
-<div class="column-left">
-[ ![](assets/img/compose.png "Click for FORRT's preprint"){width=140px} ](https://osf.io/bnh7p/)
+<div class="column-left"><br>
+[ ![](assets/img/compose.png "Click for FORRT's preprint"){width=120px} ](https://osf.io/bnh7p/)
 <br><br>
 </div>
-**Manuscript**. Lorem ipsum dolor sit amet, mea in malis putent. Ut elit corpora recusabo his, pri modo laudem prodesset an. Accusam suscipiantur cu has, ex sit eripuit recusabo, case nostrum appellantur quo id. Perfecto molestiae vim at, duo prima quando meliore id, sit probo consulatu at. Has ad vitae blandit, vix at erant iisque vocibus. Nam no idque malorum abhorreant, vim ad singulis constituto. Mea solet interpretaris ne, cu mea inani quaeque intellegat. Ius eu bonorum mentitum, amet accusata ad eos. Maluisset reprimique ex qui, nonumy labore an per, nominati voluptatum ea nec. Voluptua phaedrum te usu, amet solet accusam duo ne, probatus argumentum mel ut. Nec cu munere legere volutpat. Qui omnium patrioque ad, his tritani vivendum dignissim eu. Nam brute habemus ea. Pri eu causae prodesset, aliquid explicari in sea. Persius intellegat mei at, has eleifend sadipscing at. Ius no inani sententiae complectitur, ne mundi placerat cum. Civibus denique pri in. Ex nobis sanctus ius.
 
+**Manuscript**. FORRT's team wrote a manuscript aiming at explaing _`why`_ open and reproducible tenets should be incorporated in the teaching and mentoring of prototypical subject matters. We hope it lays the ground work for .... Ut maluisset urbanitas suscipiantur sed. Vel facete possim definitiones in, vis ex sumo autem dolor. Has nostrum ocurreret eloquentiam te, his ad maluisset splendide percipitur. 
 
+<br>
+
+<div class="column-right"><br>
+[ ![](assets/img/book_dipl.png "Click for FORRT's Educational Nexus"){width=120px} ](https://osf.io/bnh7p/)
+<br><br>
+</div>
+
+**Educational Nexus**. Lorem ipsum dolor sit amet, an conceptam definitiones vix, velit blandit mandamus no has. Dolorum interesset sadipscing duo id, cum et oratio corpora nostrum, quo primis alterum probatus no. Ius in luptatum erroribus, quem adversarium ne his. Et viris voluptaria nec, id nam adhuc sensibus, euismod abhorreant eloquentiam at eam. Ea vix accusam comprehensam, usu ea omnium intellegat honestatis, ad vix alia tollit urbanitas. 
 
 <br>
 
-[include]
-* Educational Nexus
-* Pedagogies
-* Presentations
+<div class="column-left"><br>
+[ ![](assets/img/teacher_emc2.png "Click for FORRT's Pedagogies"){width=120px} ](https://forrtv2.netlify.com/pedagogies_main.html)
+<br><br>
+</div>
 
-<br>
+**Pedagogies**. Lorem ipsum dolor sit amet, an conceptam definitiones vix, velit blandit mandamus no has. Dolorum interesset sadipscing duo id, cum et oratio corpora nostrum, quo primis alterum probatus no. Ius in luptatum erroribus, quem adversarium ne his. Et viris voluptaria nec, id nam adhuc sensibus, euismod abhorreant eloquentiam at eam. Ea vix accusam comprehensam, usu ea omnium intellegat honestatis, ad vix alia tollit urbanitas. 
+
 
 ## Partnerships
 ***
@@ -88,7 +96,7 @@ We have three different partner levels (Core, Strategic and Institutional) that 
 |      __*Meta-psychology special issue*__. We have an opportunity in conjunction with [Meta-Psychology](https://open.lnu.se/index.php/metapsychology) and the [Psychological Science Accelerator](https://psysciacc.org/) to work on a recurring special issue. The call will request teaching materials, including the pedagogical aspect desired by FORRT. This will be an ongoing source of resources to curate with FORRT and for FORRT to disseminate. This also sets the stage for our vision of academia in which teaching resources are more valued - changing the publications structure to include these excellent and open resources is a part of this. 
 
 
-|      __*Center for Open Science Knowledge Base*__. We are partnering up with OSKB on 
+|      __*Center for Open Science Knowledge Base*__. We are partnering up with OSKB. Lorem ipsum dolor sit amet, an conceptam definitiones vix, velit blandit mandamus no has. Dolorum interesset sadipscing duo id, cum et oratio corpora nostrum, quo primis alterum probatus no. Ius in luptatum erroribus, quem adversarium ne his. Et viris voluptaria nec, id nam adhuc sensibus, euismod abhorreant eloquentiam at eam. Ea vix accusam comprehensam, usu ea omnium intellegat honestatis, ad vix alia tollit urbanitas.  
 
 <br>
 
