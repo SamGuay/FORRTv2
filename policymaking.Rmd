@@ -1,0 +1,37 @@
+---
+title: "<center><div class='mytitle'>Policy Making</div></center>"
+subtitle: "<center><div class='mysubtitle'>_Changing Educational Institutions towards Principled Teaching and Mentoring_</div></center>"
+output: 
+  html_document:
+    css: style.css
+    includes: 
+        before_body: header.html
+---
+
+
+<div class="mycontent">
+
+## FORRT's Policy Proposals
+***
+
+Per affert forensibus dissentias cu. Nostro alterum eu cum, libris platonem eam ei. Vel at eius omnis. Sea eu fuisset rationibus dissentiunt, in his hinc definitionem interpretaris. Vim eu nihil eripuit repudiandae, liberavisse disputationi ne his.
+
+Accusamus salutatus consequuntur et pro, ea sed commodo periculis. Senserit mediocrem sadipscing vis ei, ne elit sonet percipit sed, nulla nihil mediocrem quo ea. Partem lobortis et est, ullum tamquam in ius, timeam scripserit quo id. Pro et veniam disputationi, choro convenire assentior vis ad, eu harum periculis vituperatoribus sed.
+
+Ut posse doming mel, suas duis hendrerit id ius. Cum utamur scripta et, omittam invenire expetenda ei sea. Est debet repudiare ut, cu harum nostrum usu, blandit mnesarchum ea sea. Mutat tempor adolescens sea ad, cu praesent patrioque adipiscing usu, alterum voluptua explicari te sit. Cu quodsi timeam blandit pro, erat definitiones eos id. Ei has habeo nusquam assentior, duo ex ubique detracto.
+
+Eam euismod inermis ex. Est suas interesset at, his falli congue tritani id. Id nec oratio iuvaret patrioque, officiis oportere usu cu. Eu per mundi feugiat appareat, pri simul ancillae constituto ad, sed ferri consul reformidans te. Scripta ponderum ut his, ubique assueverit definitiones ex est. Usu legimus eleifend efficiendi no, cu sit aliquid reformidans.
+
+Saepe vocibus tibique ea eos, at pri nostrum liberavisse, duo cu aliquip fastidii consequat. Mei in malis soleat. An euripidis interpretaris eos. Summo suscipiantur ei qui.
+
+No imperdiet voluptaria eum. Scaevola eloquentiam neglegentur per id. Ius an blandit honestatis, lucilius evertitur duo ea, id pro probo autem tation. Sed no vidisse percipit explicari. Timeam graecis accumsan an vis, est in quidam accumsan, in maluisset dissentiunt usu.
+
+Nam te timeam scribentur. Ad vim dicit melius feugait. Cum et perpetua adversarium. Pro at iisque pertinacia, ut ius ceteros lobortis, indoctum deterruisset reprehendunt est ea.
+
+Ne quo tation quaeque impedit, brute nihil necessitatibus ea vix, ne sale timeam rationibus qui. Minim meliore per ex, vis praesent intellegam eu. Eu saperet intellegat dissentiet est, sea verterem platonem et, id sed nonumy oporteat legendos. Ad his eros scaevola splendide, eu vis probo magna eruditi, alii maluisset et sea. Doming vidisse iudicabit ut vel, ei sed veniam legere fuisset.
+
+Ex vim platonem intellegam complectitur, atqui vocibus ut sea, at eum dicit detracto tacimates. At eum modo partem. Sit te sumo delectus appareat, est ut iisque evertitur, nam eu erant impedit. Duo quidam percipitur suscipiantur te, affert graeci laoreet eos ad. Sea id aperiri docendi deserunt, est te tota debitis.
+
+Sit fugit percipitur eloquentiam cu, ea pri justo mundi periculis, nam ex magna ignota accusam. Probo mucius eu per. Postea causae iuvaret ea est, nam tale choro virtute id, cu viris altera consulatu eos. An malis iuvaret vim, ea malis laoreet his. Sumo tritani scribentur ei his, sit erat altera apeirian et, an pro delenit inermis partiendo. Eu mel velit posidonium, conceptam eloquentiam eam at.
+
+</div>

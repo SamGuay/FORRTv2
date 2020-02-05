@@ -13,10 +13,10 @@ navbar:
         - text: "---------"
         - text: "About"
           href: about.html
+        - text: "Adopting FORRT"
+          href: adopting.html
         - text: "Advocacy"
           href: advocacy.html  
-        - text: "Adopting FORRT"
-          href: adopting.html  
         - text: "Code of Conduct"
           href: CoC.html
 #        - text: "Media"
@@ -25,12 +25,14 @@ navbar:
           href: GetInvolved.html
         - text: "Mission"
           href: Mission.html          
+        - text: "News"
+          href: calendarnews.html          
 #        - text: "Partnerships"
 #          href: partnerships.html
         - text: "People"
           href: people.html
-        - text: "Policy-Making"
-          href: Policy-Making.html
+        - text: "Policy Making"
+          href: policymaking.html
 #        - text: "Where in the Globe?"
 #          href: Map.html     
 #        - text: "Principles"
