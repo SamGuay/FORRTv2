@@ -1,10 +1,10 @@
 ---
 title: "<center><div class='mytitle'>People</div></center>"
 subtitle: "<center><div class='mysubtitle'>_Who are we?_</div></center>"
-output: 
+output:
   html_document:
     css: style.css
-    includes: 
+    includes:
         before_body: header.html
         after_body: footer.html
 ---
@@ -30,17 +30,17 @@ img {
 [ ![](assets/img/flavio.png "Personal Website"){width=130px} ](http://flavioazevedo.com/)
 
 <p style="text-align: center;">
-    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl" 
+    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl"
       class="ai ai-google-scholar-square ai"></a>
-    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3" 
+    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3"
       class="ai ai-researchgate ai"></a>
-    <a href="https://orcid.org/0000-0001-9000-8513" 
+    <a href="https://orcid.org/0000-0001-9000-8513"
       class="ai ai-orcid ai"></a>
-    <a href="https://osf.io/6ycwh/" 
+    <a href="https://osf.io/6ycwh/"
       class="ai ai-osf ai"></a>
-    <a href="https://publons.com/researcher/1551653/flavio-azevedo/" 
+    <a href="https://publons.com/researcher/1551653/flavio-azevedo/"
       class="fa fa-researcherid ai"></a>
-    <a href="https://github.com/flavioazevedo" 
+    <a href="https://github.com/flavioazevedo"
       class="fa fa-github ai"></a></p>
 
 </div>
@@ -52,17 +52,17 @@ img {
 <div class="column-right-people">
 [ ![](assets/img/sam.jpg "Personal Website"){width=130px} ](http://flavioazevedo.com/)
 <p style="text-align: center;">
-    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl" 
+    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl"
       class="ai ai-google-scholar-square ai"></a>
-    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3" 
+    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3"
       class="ai ai-researchgate ai"></a>
-    <a href="https://orcid.org/0000-0001-9000-8513" 
+    <a href="https://orcid.org/0000-0001-9000-8513"
       class="ai ai-orcid ai"></a>
-    <a href="https://osf.io/6ycwh/" 
+    <a href="https://osf.io/6ycwh/"
       class="ai ai-osf ai"></a>
-    <a href="https://publons.com/researcher/1551653/flavio-azevedo/" 
+    <a href="https://publons.com/researcher/1551653/flavio-azevedo/"
       class="fa fa-researcherid ai"></a>
-    <a href="https://github.com/flavioazevedo" 
+    <a href="https://github.com/flavioazevedo"
       class="fa fa-github ai"></a></p>
 </div>
 
@@ -74,38 +74,36 @@ img {
 <div class="column-left-people">
 [ ![](assets/img/avatar_fem.png "Personal Website"){width=130px} ](http://flavioazevedo.com/)
 <p style="text-align: center;">
-    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl" 
+    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl"
       class="ai ai-google-scholar-square ai"></a>
-    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3" 
+    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3"
       class="ai ai-researchgate ai"></a>
-    <a href="https://orcid.org/0000-0001-9000-8513" 
+    <a href="https://orcid.org/0000-0001-9000-8513"
       class="ai ai-orcid ai"></a>
-    <a href="https://osf.io/6ycwh/" 
+    <a href="https://osf.io/6ycwh/"
       class="ai ai-osf ai"></a>
-    <a href="https://publons.com/researcher/1551653/flavio-azevedo/" 
+    <a href="https://publons.com/researcher/1551653/flavio-azevedo/"
       class="fa fa-researcherid ai"></a>
-    <a href="https://github.com/flavioazevedo" 
+    <a href="https://github.com/flavioazevedo"
       class="fa fa-github ai"></a></p>
 </div>
 
-*Crystal Steltenpohl* is per affert forensibus dissentias cu. Nostro alterum eu cum, libris platonem eam ei. Vel at eius omnis. Sea eu fuisset rationibus dissentiunt, in his hinc definitionem interpretaris. Vim eu nihil eripuit repudiandae, liberavisse disputationi ne his. Accusamus salutatus consequuntur et pro, ea sed commodo periculis.
+*Crystal Steltenpohl* is da bomb dot com.
 
 <br>
 
 <div class="column-right-people">
-[ ![](assets/img/avatar_fem1.png  "Personal Website"){width=130px} ](http://flavioazevedo.com/)
+[ ![](assets/img/avatar_fem1.png  "Personal Website"){width=130px} ](http://crystalns.com/)
 <p style="text-align: center;">
-    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl" 
+    <a href="https://scholar.google.com/citations?user=wNDNuToAAAAJ"
       class="ai ai-google-scholar-square ai"></a>
-    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3" 
-      class="ai ai-researchgate ai"></a>
-    <a href="https://orcid.org/0000-0001-9000-8513" 
+    <a href="https://orcid.org/0000-0001-9000-8513"
       class="ai ai-orcid ai"></a>
-    <a href="https://osf.io/6ycwh/" 
+    <a href="https://osf.io/nwe62/"
       class="ai ai-osf ai"></a>
-    <a href="https://publons.com/researcher/1551653/flavio-azevedo/" 
+    <a href="https://publons.com/researcher/1487298/crystal-n-steltenpohl"
       class="fa fa-researcherid ai"></a>
-    <a href="https://github.com/flavioazevedo" 
+    <a href="https://github.com/CNSteltenpohl"
       class="fa fa-github ai"></a></p>
 </div>
 
@@ -116,17 +114,17 @@ img {
 <div class="column-left-people">
 [ ![](assets/img/avatar_fem2.png "Personal Website"){width=130px} ](http://flavioazevedo.com/)
 <p style="text-align: center;">
-    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl" 
+    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl"
       class="ai ai-google-scholar-square ai"></a>
-    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3" 
+    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3"
       class="ai ai-researchgate ai"></a>
-    <a href="https://orcid.org/0000-0001-9000-8513" 
+    <a href="https://orcid.org/0000-0001-9000-8513"
       class="ai ai-orcid ai"></a>
-    <a href="https://osf.io/6ycwh/" 
+    <a href="https://osf.io/6ycwh/"
       class="ai ai-osf ai"></a>
-    <a href="https://publons.com/researcher/1551653/flavio-azevedo/" 
+    <a href="https://publons.com/researcher/1551653/flavio-azevedo/"
       class="fa fa-researcherid ai"></a>
-    <a href="https://github.com/flavioazevedo" 
+    <a href="https://github.com/flavioazevedo"
       class="fa fa-github ai"></a></p>
 </div>
 
@@ -146,17 +144,17 @@ img {
 
 <!-- Add font awesome icons -->
 <p style="text-align: center;">
-    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl" 
+    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl"
       class="ai ai-google-scholar-square ai"></a>
-    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3" 
+    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3"
       class="ai ai-researchgate ai"></a>
-    <a href="https://orcid.org/0000-0001-9000-8513" 
+    <a href="https://orcid.org/0000-0001-9000-8513"
       class="ai ai-orcid ai"></a>
-    <a href="https://osf.io/6ycwh/" 
+    <a href="https://osf.io/6ycwh/"
       class="ai ai-osf ai"></a>
-    <a href="https://publons.com/researcher/1551653/flavio-azevedo/" 
+    <a href="https://publons.com/researcher/1551653/flavio-azevedo/"
       class="fa fa-researcherid ai"></a>
-    <a href="https://github.com/flavioazevedo" 
+    <a href="https://github.com/flavioazevedo"
       class="fa fa-github ai"></a></p>
 
 
@@ -169,17 +167,17 @@ img {
 
 <!-- Add font awesome icons -->
 <p style="text-align: center;">
-    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl" 
+    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl"
       class="ai ai-google-scholar-square ai"></a>
-    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3" 
+    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3"
       class="ai ai-researchgate ai"></a>
-    <a href="https://orcid.org/0000-0001-9000-8513" 
+    <a href="https://orcid.org/0000-0001-9000-8513"
       class="ai ai-orcid ai"></a>
-    <a href="https://osf.io/6ycwh/" 
+    <a href="https://osf.io/6ycwh/"
       class="ai ai-osf ai"></a>
-    <a href="https://publons.com/researcher/1551653/flavio-azevedo/" 
+    <a href="https://publons.com/researcher/1551653/flavio-azevedo/"
       class="fa fa-researcherid ai"></a>
-    <a href="https://github.com/flavioazevedo" 
+    <a href="https://github.com/flavioazevedo"
       class="fa fa-github ai"></a></p>
 <br>
 
@@ -193,17 +191,17 @@ img {
 
 <!-- Add font awesome icons -->
 <p style="text-align: center;">
-    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl" 
+    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl"
       class="ai ai-google-scholar-square ai"></a>
-    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3" 
+    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3"
       class="ai ai-researchgate ai"></a>
-    <a href="https://orcid.org/0000-0001-9000-8513" 
+    <a href="https://orcid.org/0000-0001-9000-8513"
       class="ai ai-orcid ai"></a>
-    <a href="https://osf.io/6ycwh/" 
+    <a href="https://osf.io/6ycwh/"
       class="ai ai-osf ai"></a>
-    <a href="https://publons.com/researcher/1551653/flavio-azevedo/" 
+    <a href="https://publons.com/researcher/1551653/flavio-azevedo/"
       class="fa fa-researcherid ai"></a>
-    <a href="https://github.com/flavioazevedo" 
+    <a href="https://github.com/flavioazevedo"
       class="fa fa-github ai"></a></p>
 
 
@@ -218,17 +216,17 @@ img {
 
 <!-- Add font awesome icons -->
 <p style="text-align: center;">
-    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl" 
+    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl"
       class="ai ai-google-scholar-square ai"></a>
-    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3" 
+    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3"
       class="ai ai-researchgate ai"></a>
-    <a href="https://orcid.org/0000-0001-9000-8513" 
+    <a href="https://orcid.org/0000-0001-9000-8513"
       class="ai ai-orcid ai"></a>
-    <a href="https://osf.io/6ycwh/" 
+    <a href="https://osf.io/6ycwh/"
       class="ai ai-osf ai"></a>
-    <a href="https://publons.com/researcher/1551653/flavio-azevedo/" 
+    <a href="https://publons.com/researcher/1551653/flavio-azevedo/"
       class="fa fa-researcherid ai"></a>
-    <a href="https://github.com/flavioazevedo" 
+    <a href="https://github.com/flavioazevedo"
       class="fa fa-github ai"></a></p>
 
 
@@ -241,17 +239,17 @@ img {
 
 <!-- Add font awesome icons -->
 <p style="text-align: center;">
-    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl" 
+    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl"
       class="ai ai-google-scholar-square ai"></a>
-    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3" 
+    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3"
       class="ai ai-researchgate ai"></a>
-    <a href="https://orcid.org/0000-0001-9000-8513" 
+    <a href="https://orcid.org/0000-0001-9000-8513"
       class="ai ai-orcid ai"></a>
-    <a href="https://osf.io/6ycwh/" 
+    <a href="https://osf.io/6ycwh/"
       class="ai ai-osf ai"></a>
-    <a href="https://publons.com/researcher/1551653/flavio-azevedo/" 
+    <a href="https://publons.com/researcher/1551653/flavio-azevedo/"
       class="fa fa-researcherid ai"></a>
-    <a href="https://github.com/flavioazevedo" 
+    <a href="https://github.com/flavioazevedo"
       class="fa fa-github ai"></a></p>
 <br>
 
@@ -265,17 +263,17 @@ img {
 
 <!-- Add font awesome icons -->
 <p style="text-align: center;">
-    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl" 
+    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl"
       class="ai ai-google-scholar-square ai"></a>
-    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3" 
+    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3"
       class="ai ai-researchgate ai"></a>
-    <a href="https://orcid.org/0000-0001-9000-8513" 
+    <a href="https://orcid.org/0000-0001-9000-8513"
       class="ai ai-orcid ai"></a>
-    <a href="https://osf.io/6ycwh/" 
+    <a href="https://osf.io/6ycwh/"
       class="ai ai-osf ai"></a>
-    <a href="https://publons.com/researcher/1551653/flavio-azevedo/" 
+    <a href="https://publons.com/researcher/1551653/flavio-azevedo/"
       class="fa fa-researcherid ai"></a>
-    <a href="https://github.com/flavioazevedo" 
+    <a href="https://github.com/flavioazevedo"
       class="fa fa-github ai"></a></p>
 
 
@@ -301,17 +299,17 @@ img {
 
 <!-- Add font awesome icons -->
 <p style="text-align: center;">
-    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl" 
+    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl"
       class="ai ai-google-scholar-square ai"></a>
-    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3" 
+    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3"
       class="ai ai-researchgate ai"></a>
-    <a href="https://orcid.org/0000-0001-9000-8513" 
+    <a href="https://orcid.org/0000-0001-9000-8513"
       class="ai ai-orcid ai"></a>
-    <a href="https://osf.io/6ycwh/" 
+    <a href="https://osf.io/6ycwh/"
       class="ai ai-osf ai"></a>
-    <a href="https://publons.com/researcher/1551653/flavio-azevedo/" 
+    <a href="https://publons.com/researcher/1551653/flavio-azevedo/"
       class="fa fa-researcherid ai"></a>
-    <a href="https://github.com/flavioazevedo" 
+    <a href="https://github.com/flavioazevedo"
       class="fa fa-github ai"></a></p>
 
 
@@ -324,17 +322,17 @@ img {
 
 <!-- Add font awesome icons -->
 <p style="text-align: center;">
-    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl" 
+    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl"
       class="ai ai-google-scholar-square ai"></a>
-    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3" 
+    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3"
       class="ai ai-researchgate ai"></a>
-    <a href="https://orcid.org/0000-0001-9000-8513" 
+    <a href="https://orcid.org/0000-0001-9000-8513"
       class="ai ai-orcid ai"></a>
-    <a href="https://osf.io/6ycwh/" 
+    <a href="https://osf.io/6ycwh/"
       class="ai ai-osf ai"></a>
-    <a href="https://publons.com/researcher/1551653/flavio-azevedo/" 
+    <a href="https://publons.com/researcher/1551653/flavio-azevedo/"
       class="fa fa-researcherid ai"></a>
-    <a href="https://github.com/flavioazevedo" 
+    <a href="https://github.com/flavioazevedo"
       class="fa fa-github ai"></a></p>
 <br>
 
@@ -348,17 +346,17 @@ img {
 
 <!-- Add font awesome icons -->
 <p style="text-align: center;">
-    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl" 
+    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl"
       class="ai ai-google-scholar-square ai"></a>
-    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3" 
+    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3"
       class="ai ai-researchgate ai"></a>
-    <a href="https://orcid.org/0000-0001-9000-8513" 
+    <a href="https://orcid.org/0000-0001-9000-8513"
       class="ai ai-orcid ai"></a>
-    <a href="https://osf.io/6ycwh/" 
+    <a href="https://osf.io/6ycwh/"
       class="ai ai-osf ai"></a>
-    <a href="https://publons.com/researcher/1551653/flavio-azevedo/" 
+    <a href="https://publons.com/researcher/1551653/flavio-azevedo/"
       class="fa fa-researcherid ai"></a>
-    <a href="https://github.com/flavioazevedo" 
+    <a href="https://github.com/flavioazevedo"
       class="fa fa-github ai"></a></p>
 
 
@@ -377,17 +375,17 @@ img {
 
 <!-- Add font awesome icons -->
 <p style="text-align: center;">
-    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl" 
+    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl"
       class="ai ai-google-scholar-square ai"></a>
-    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3" 
+    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3"
       class="ai ai-researchgate ai"></a>
-    <a href="https://orcid.org/0000-0001-9000-8513" 
+    <a href="https://orcid.org/0000-0001-9000-8513"
       class="ai ai-orcid ai"></a>
-    <a href="https://osf.io/6ycwh/" 
+    <a href="https://osf.io/6ycwh/"
       class="ai ai-osf ai"></a>
-    <a href="https://publons.com/researcher/1551653/flavio-azevedo/" 
+    <a href="https://publons.com/researcher/1551653/flavio-azevedo/"
       class="fa fa-researcherid ai"></a>
-    <a href="https://github.com/flavioazevedo" 
+    <a href="https://github.com/flavioazevedo"
       class="fa fa-github ai"></a></p>
 
 
@@ -400,17 +398,17 @@ img {
 
 <!-- Add font awesome icons -->
 <p style="text-align: center;">
-    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl" 
+    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl"
       class="ai ai-google-scholar-square ai"></a>
-    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3" 
+    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3"
       class="ai ai-researchgate ai"></a>
-    <a href="https://orcid.org/0000-0001-9000-8513" 
+    <a href="https://orcid.org/0000-0001-9000-8513"
       class="ai ai-orcid ai"></a>
-    <a href="https://osf.io/6ycwh/" 
+    <a href="https://osf.io/6ycwh/"
       class="ai ai-osf ai"></a>
-    <a href="https://publons.com/researcher/1551653/flavio-azevedo/" 
+    <a href="https://publons.com/researcher/1551653/flavio-azevedo/"
       class="fa fa-researcherid ai"></a>
-    <a href="https://github.com/flavioazevedo" 
+    <a href="https://github.com/flavioazevedo"
       class="fa fa-github ai"></a></p>
 <br>
 
@@ -424,17 +422,17 @@ img {
 
 <!-- Add font awesome icons -->
 <p style="text-align: center;">
-    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl" 
+    <a href="https://scholar.google.com/citations?user=O2Mp3ygAAAAJ&hl"
       class="ai ai-google-scholar-square ai"></a>
-    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3" 
+    <a href="https://www.researchgate.net/profile/Flavio_Azevedo3"
       class="ai ai-researchgate ai"></a>
-    <a href="https://orcid.org/0000-0001-9000-8513" 
+    <a href="https://orcid.org/0000-0001-9000-8513"
       class="ai ai-orcid ai"></a>
-    <a href="https://osf.io/6ycwh/" 
+    <a href="https://osf.io/6ycwh/"
       class="ai ai-osf ai"></a>
-    <a href="https://publons.com/researcher/1551653/flavio-azevedo/" 
+    <a href="https://publons.com/researcher/1551653/flavio-azevedo/"
       class="fa fa-researcherid ai"></a>
-    <a href="https://github.com/flavioazevedo" 
+    <a href="https://github.com/flavioazevedo"
       class="fa fa-github ai"></a></p>
 
 
@@ -442,5 +440,3 @@ img {
 <br>
 
 </div>
-
-
