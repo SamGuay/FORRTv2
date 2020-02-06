@@ -1,6 +1,6 @@
 ---
-title: "<center><div class='mytitle'>educational NEXUS</div></center>"
-subtitle: "<center><div class='mysubtitle'>educational NEXUS</div></center>"
+title: "<center><div class='mytitle'>Educational NEXUS</div></center>"
+subtitle: "<center><div class='mysubtitle'>Providing tools for principled better education</div></center>"
 output: 
   html_document:
     css: style.css
@@ -9,11 +9,14 @@ output:
         #after_body: footer.html
 ---
 
-<center>
+<div class="mycontent">
+
+
+<br><br><br>
 
 ## FORRT's educational NEXUS {.tabset .tabset-fade}
+***
 
-</center>
 
 <div id="section" class="section level2 tabset tabset-fade" style="padding:50px">
 
@@ -169,6 +172,6 @@ If you would like to contribute to this database, please add the intended teachi
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTlMp-kKqssGTD4IwsIdvV0Tk28djKp0YJCocc9CKgYV3GgElP4HDOTduMNEIpk-ZQXRsV-03m95RpO/pubhtml" width="910" height="1000"></iframe>
 
-<div>
 
+</div>
 <br>

@@ -23,7 +23,7 @@ img {
 
 <div class="mycontent">
 
-## CORE team
+## Steering Committee
 ***
 
 <div class="column-left-people"><br>

@@ -1,6 +1,6 @@
 ---
 title: "<center><div class='mytitle'>Welcome to FORRT</div></center>"
-subtitle: "<center><div class='mysubtitle'>In pursuit of the best conceivable educational practices in higher education_</div></center>"
+subtitle: "<center><div class='mysubtitle'>_In pursuit of the best conceivable educational practices in higher education_</div></center>"
 output: 
   html_document:
     css: style.css
