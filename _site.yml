@@ -26,17 +26,17 @@ navbar:
         - text: "Mission"
           href: Mission.html          
         - text: "News"
-          href: calendarnews.html          
+          href: news.html          
 #        - text: "Partnerships"
 #          href: partnerships.html
         - text: "People"
           href: people.html
         - text: "Policy Making"
           href: policymaking.html
-#        - text: "Where in the Globe?"
-#          href: Map.html     
-#        - text: "Principles"
-#          href: principles.html
+        - text: "Survey"
+          href: survey.html          
+#       - text: "Principles"
+#         href: principles.html
     - text: "educational NEXUS"
       menu:
         - text: "educational NEXUS"

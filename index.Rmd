@@ -56,7 +56,7 @@ We have three different partner levels (Core, Strategic and Institutional) that 
 <br>
 
 <div align="right">
-[Get involved! <i class="right"></i>](https://forrtv2.netlify.com/getinvolved)
+[Get involved! <i class="right"></i>](https://forrtv2.netlify.com/getinvolved){target="_blank"}
 </div>
 
   

@@ -1,6 +1,6 @@
 ---
 title: "<center><div class='mytitle'>Get Involved</div></center>"
-subtitle: "<center><div class='mysubtitle'>_Join the movement for better education</div></center>"
+subtitle: "<center><div class='mysubtitle'>_Join the movement for better education_</div></center>"
 output: 
   html_document:
     css: style.css
@@ -26,7 +26,7 @@ We have also opened a Slack channel to keep everyone up-to-date and to provide a
 
 <br>
 
-We created a live-version of the manuscript for community participation and feedback [tinyURL.com/FORRTworkingDOC](tinyURL.com/FORRTworkingDOC). FORRT is operated as an open contributorship - all are welcome to contribute, and we aim to recognise all contributions. See the [manuscript](https://tinyurl.com/FORRTslack) for more information.
+We created a live-version of the manuscript for community participation and feedback [FORRT working Manuscript](tinyURL.com/FORRTworkingDOC). FORRT is operated as an open contributorship - all are welcome to contribute, and we aim to recognise all contributions. See the [manuscript](https://tinyurl.com/FORRTslack) for more information.
 
 <br>
 

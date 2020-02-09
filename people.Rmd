@@ -46,7 +46,6 @@ img {
 </div>
 *Flavio Azevedo*, a Fulbright fellow, is currently working as a research associate at the Institute for Communication Science (IfKW) at Friedrich Schiller University Jena, Germany. Recently, Flavio was named as one of the 100 most influential early career Portuguese via the "Global Shapers" initiative by the World Economic Forum.
 
-
 <br>
 
 <div class="column-right-people">
@@ -70,7 +69,6 @@ img {
 
 <br>
 
-
 <div class="column-left-people">
 [ ![](assets/img/avatar_fem.png "Personal Website"){width=130px} ](http://flavioazevedo.com/)
 <p style="text-align: center;">
@@ -86,7 +84,7 @@ img {
       class="fa fa-github ai"></a></p>
 </div>
 
-*Crystal Steltenpohl* is da bomb dot com. is per affert forensibus dissentias cu. Nostro alterum eu cum, libris platonem eam ei. Vel at eius omnis. Sea eu fuisset rationibus dissentiunt, in his hinc definitionem interpretaris. Vim eu nihil eripuit repudiandae, liberavisse disputationi ne his. Accusamus salutatus consequuntur et pro, ea sed commodo periculis.
+*Crystal Steltenpohl* is an assistant professor of psychology and founder of the Online Technologies Lab at the University of Southern Indiana. As a scholar, gamer, and participant in online worlds, her major research interests revolve around how we interact with various technologies, especially those that house online communities. She is particularly interested in understanding how technologies influence communities and the self.
 
 <br>
 

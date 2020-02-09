@@ -1,0 +1,9 @@
+---
+title: "<center><div class='mytitle'>Survey</div></center>"
+subtitle: "<center><div class='mysubtitle'>_Establishing which are the current norms in principled education - and its path forward_</div></center>"
+output: 
+  html_document:
+    css: style.css
+    includes: 
+        before_body: header.html
+---
